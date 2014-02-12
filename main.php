@@ -9,7 +9,7 @@
 eng</a></td></tr>
 <tr><td colspan=2><img width="100%" src= "pauk1-1.jpg"/></td></tr>
 <tr><td colspan=2>&nbsp;</td></tr>
-<tr><td colspan=2 align="center" valign="middle"><p>Паутинка<p/> символизирует порядок и равновесие сил, 
+<tr><td colspan=2 align="center" valign="middle"><h3>Паутинка!</h3> символизирует порядок и равновесие сил, 
 однако основное значение символа - связывать и удерживать.</td></tr>
 <tr><td colspan=2>&nbsp;</td></tr>
 <tr><td colspan=2 align="center" valign="middle"><span style="color:gray;"><hr/></span>&copy; 2014 <a href=
