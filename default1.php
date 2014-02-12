@@ -2,9 +2,9 @@
 <html>
 <head>
 <meta http-equiv = "Content-Type" content= "text/html; charset=UTF-8"/><title> ГЛАВНАЯ ПАУТИНКА </title></head>
-<body style="padding: 0: margin:0;"><img width="100%" src="pauk1.jpg"/><br>
+<body style="padding: 0; margin:0;"><img width="100%" src="pauk1.jpg"/><br>
 <table width="100%" border="1" cellpadding="0" cellspacing="0">
-<tr><td><b>pautinka.mobi<b>...</td></tr>
+<tr><td><b>pautinka.mobi<b>....</td></tr>
 <tr><td><img width="100%" src= "pauk1.jpg"/></td></tr>
 <tr><td><br/>&nbsp;</td></tr>
 <tr><td><span style="color:gray;"><hr/></span>
