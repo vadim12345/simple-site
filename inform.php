@@ -6,7 +6,8 @@
 <tr><td align="center" valign="middle"><a href="pautinka.mobi">pautinka.mobi</a></td>
 <td align="center" valign="middle"><a href="https://pautinka.mobi/main.php">rus</a> | <a href=
 "pautinka.mobi/default1.php">eng</a></td></tr>
-<tr><td colspan=2><img width="100%" src= "pauk2-1-2.jpg"/></td></tr><br/>
+<tr><td colspan=2><img width="100%" src= "pauk2-1-2.jpg"/></td></tr>
+<tr><td colspan=2>&nbsp</td></tr>
 <tr><td colspan=2 align="center" valign="middle">
 <h3>Как это работает?</h3>
 После регистрации Вы получите
