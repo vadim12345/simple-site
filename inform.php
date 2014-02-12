@@ -18,7 +18,7 @@ pautinka.mobi<br/>
 Чем больше людей Вы пригласите, 
 тем больше ГОЛОСОВ получите!<br/>
 3 ГОЛОСА = 1 ПАУТИНКA</td></tr>
-<tr><td colspan=2 align="center" valign="middle">&copy; 2014<a href="https://pautinka.mobi/main.php"><b>pautinka.mobi</b></a>
+<tr><td colspan=2 align="center" valign="middle">&copy; 2014 <a href="https://pautinka.mobi/main.php"><b>pautinka.mobi</b></a>
 </td></tr>
 </table>
 </body>
