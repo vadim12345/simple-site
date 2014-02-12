@@ -11,7 +11,7 @@
 Как это работает?<br/>
 После регистрации Вы получите
 специальную реферальную ссылку.<br/>
-<a href="pautinka.mobi">https://pautinka.mobi</a>
+<a href="pautinka.mobi">https://pautinka.mobi</a><br/>
 Разошлите её другим людям и как
 только они зарегистрируются на
 pautinka.mobi<br/> 
@@ -19,8 +19,9 @@ pautinka.mobi<br/>
 Чем больше людей Вы пригласите, 
 тем больше ГОЛОСОВ получите!<br/>
 3 ГОЛОСА = 1 ПАУТИНКA<br/></td></tr>
+<tr><td colspan=2>&nbsp</td></tr>
 <tr><td colspan=2 align="center" valign="middle"><span stule="color:gray;"><hr/></span>
-&copy; 2014 <a href="https://pautinka.mobi/main.php">pautinka.mobi</a><br/></td></tr>
+&copy; 2014 <a href="https://pautinka.mobi/main.php">pautinka.mobi</a></td></tr><br/>
 </table>
 </body>
 </html>
