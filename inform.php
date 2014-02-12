@@ -12,7 +12,7 @@
 <h3>Как это работает?</h3>
 После регистрации Вы получите
 специальную реферальную ссылку.
-<a href="pautinka.mobi">https://pautinka.mobi</a><br/>
+<a href="pautinka.mobi">https://pautinka.mobi</a>
 Разошлите её другим людям и как
 только они зарегистрируются на
 pautinka.mobi
