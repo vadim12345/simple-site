@@ -18,7 +18,7 @@
 pautinka.mobi
 Вам будут зачислен 1 ГОЛОС.
 Чем больше людей Вы пригласите, 
-тем больше ГОЛОСОВ получите!
+тем больше ГОЛОСОВ получите!<br/>
 3 ГОЛОСА = 1 ПАУТИНКA</td></tr>
 <tr><td colspan=2>&nbsp</td></tr>
 <tr><td colspan=2 align="center" valign="middle"><span stule="color:gray;"><hr/></span>
