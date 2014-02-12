@@ -10,16 +10,17 @@
 <tr><td colspan=2><br/>
 Как это работает?<br/>
 После регистрации Вы получите
-специальную реферальную ссылку.
+специальную реферальную ссылку.<br/>
+<a href="pautinka.mobi">https://pautinka.mobi</a>
 Разошлите её другим людям и как
 только они зарегистрируются на
 pautinka.mobi<br/> 
 Вам будут зачислен 1 ГОЛОС.
 Чем больше людей Вы пригласите, 
 тем больше ГОЛОСОВ получите!<br/>
-3 ГОЛОСА = 1 ПАУТИНКA</td></tr>
+3 ГОЛОСА = 1 ПАУТИНКA<br/></td></tr>
 <tr><td colspan=2 align="center" valign="middle"><span stule="color:gray;"><hr/></span>
-&copy; 2014 <a href="https://pautinka.mobi/main.php">pautinka.mobi</a></td></tr>
+&copy; 2014 <a href="https://pautinka.mobi/main.php">pautinka.mobi</a><br/></td></tr>
 </table>
 </body>
 </html>
