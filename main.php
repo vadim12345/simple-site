@@ -9,7 +9,7 @@
 eng</a></td></tr>
 <tr><td colspan=2><img width="100%" src= "pauk1-1.jpg"/></td></tr>
 <tr><td colspan=2>&nbsp;</td></tr>
-<tr><td colspan=2 align="center" valign="middle"><span style="color:gray;"><hr/></span>&copy; 2014<a href=
+<tr><td colspan=2 align="center" valign="middle"><span style="color:gray;"><hr/></span>&copy; 2014 <a href=
 "https://pautinka.mobi/inform.php">pautinka.mobi</a><br/></td></tr></table>
 </body>
 </html>
