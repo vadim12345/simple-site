@@ -4,10 +4,12 @@
 <meta http-equiv = "Content-Type" content= "text/html; charset=UTF-8"/><title> ГЛАВНАЯ ПАУТИНКА </title></head>
 <body style="padding: 0; margin:0;">
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr><td ><b>pautinka.mobi<b></td></tr>
-<tr><td><img width="100%" src= "pauk1-1.jpg"/></td></tr>
-<tr><td><br/>&nbsp;</td></tr>
-<tr><td><span style="color:gray;"><hr/></span>
-&copy; 2014  m.pautinka.mobi</td></tr></table>
+<tr><td align="center" valign="middle"><a href="https://pautinka.mobi"<b>pautinka.mobi</b></a></td>
+<td align="center" valign="middle"><a href="htps://pautinka.mobi"<b>rus</b></a> | <a href="https://pautinka.mobi/main.php"
+<b>eng</b></a></td></tr>
+<tr><td colspan=2><img width="100%" src= "pauk1-1.jpg"/></td></tr>
+<tr><td colspan=2>&nbsp;</td></tr>
+<tr><td colspan=2 align="center" valign="middle"><span style="color:gray;"><hr/></span>&copy; 2014<a href="https://pautinka.mobi/inform.php"<b>
+pautinka.mobi</b></a></td></tr></table>
 </body>
 </html>
