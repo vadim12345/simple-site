@@ -8,10 +8,10 @@
 <tr><td colspan="2" align="center" valign="middle"><img width="150" src="pauk.png"/></td></tr>
 <tr><td colspan="2" align="center" valign="middle"><i><span style="color: gray">Плети&nbsp;свою&nbsp;сеть</span></i><br/>
 </td></tr>
-<table width="100%" border="1" cellpadding="0" cellspacing="10"><tr><td colspan="2" aalign="center" valign="middle">
+<table width="100%" border="1" cellpadding="5" cellspacing="10"><tr><td colspan="2" aalign="center" valign="middle">
 <tr><form name = "input" action ="form.php" method= "get"><td align="right" valign="middle">E-mail:</td>
 <td><input type = "text"/size=16></td></tr><tr><td align="right" valign="middle">Password:</td>
-<td><input type = "password"/size=16></td></tr>
+<td><input type = "password"/size=16></td></tr></table>
 <tr><td colspan="2"></td></tr>
 <tr><td colspan=2 align="center" valign="middle"><input type ="submit" value= "РЕГИСТРАЦИЯ / ВХОД"/><br/></td></form></tr>
 <tr><td colspan="2">&nbsp;</td></tr>
