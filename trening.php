@@ -2,6 +2,11 @@
 <head>
 </head>
 <body>
+<form name = "input" action= "form.php" method= "get" >
+Введите Ваше имя: <input type = "text" name ="name" />
+<input type = "submit" value = "Отправить" />
+</form>
+
 <ul class= "menu" >
 <li><a href = "">Главная</a></li>
 <li><a href = "">О компании</a>
