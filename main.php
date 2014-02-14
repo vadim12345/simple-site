@@ -9,10 +9,9 @@
 eng</a></td></tr>
 <tr><td colspan=2><img width="100%" src= "pauk1-1.jpg"/></td></tr>
 
-<tr><td colspan=2 align="center" valig="midle"><a href="http://www.pautinka.mobi"><ul type="sguare"><li>главная</li>
-</a> <a href="http://www.pautinka.mobi/inform.php"><li>информация</li></a> <a href=
-"http://www.pautinka.mobi/trening.php"><li>торговля</li></a> <a href="http://www.pautinka.mobi"><li>выход</li></ul>
-</a></td></tr>
+<tr><td colspan=2 align="center" valig="midle"><a href="http://www.pautinka.mobi">·главная</a> <a href=
+"http://www.pautinka.mobi/inform.php">·информация</a> <a href="http://www.pautinka.mobi/trening.php">·торговля</a> <
+a href="http://www.pautinka.mobi">·выход</a></td></tr>
 <tr><td colspan=2 align="center" valign="middle"><h3>Паутинка!</h3> символизирует порядок и равновесие сил, 
 однако основное значение символа,<br/> связывать и удерживать.</td></tr>
 <tr><td colspan=2>&nbsp;</td></tr>
