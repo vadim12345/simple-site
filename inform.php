@@ -12,7 +12,7 @@
 "http://pautinka.mobi/inform.php">информ</a> | <a href="http://pautinka.mobi/torg.php">торговля</a> | <a href=
 "http://pautinka.mobi">выход</a></td></tr>
 <tr><td colspan=2 align="center" valign="middle">
-<h3>Как это работает?</h3>
+<h3><br/>Как это работает?</h3>
 После регистрации Вы получите
 специальную реферальную ссылку.<br/>
 <a href="http://pautinka.mobi">http://pautinka.mobi</a><br/>
