@@ -11,9 +11,8 @@ eng</a></td></tr>
 
 <tr><td colspan=2 align="center" valig="midle"><a href="https://www.pautinka.mobi/">главная</a> | <a href=
 "https://www.pautinka.mobi/inform.php">информ</a> | <a href="https://www.pautinka.mobi/trening.php">торговля</a> | <a href=
-"https://www.pautinka.mobi">добыча</a> | <form><select name="sex"><option value="m"><a href="https://www.pautinka.mobi">
-ещё</a></option>
-<option value="f"><a href="https://www.pautinka.mobi>выход</a></option></select></form></td></tr>
+"https://www.pautinka.mobi">добыча</a> | <form><select name="sex"><option value="m">ещё</option>
+<option value="f">выход</option></select></form></td></tr>
 <tr><td colspan=2 align="center" valign="middle"><h3>Паутинка!</h3> символизирует порядок и равновесие сил, 
 однако основное значение символа,<br/> связывать и удерживать.</td></tr>
 <tr><td colspan=2>&nbsp;</td></tr>
