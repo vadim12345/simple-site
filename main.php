@@ -12,7 +12,7 @@ eng</a></td></tr>
 <tr><td colspan=2 align="center" valig="midle"><a href="http://www.pautinka.mobi/main.php">главная</a> | <a href=
 "http://www.pautinka.mobi/inform.php">информ</a> | <a href="http://www.pautinka.mobi/trening.php">торговля</a> | <a href=
 "http://www.pautinka.mobi">выход</a></td></tr>
-<tr><td colspan=2 align="center" valign="middle"><h3>Паутинка!</h3> символизирует порядок и равновесие сил, 
+<tr><td colspan=2 align="center" valign="middle"><h3><br/>Паутинка!</h3> символизирует порядок и равновесие сил, 
 однако основное значение символа,<br/> связывать и удерживать.</td></tr>
 <tr><td colspan=2>&nbsp;</td></tr>
 <tr><td colspan=2 align="center" valign="middle"><span style="color:gray;"><hr/></span>&copy; 2014 <a href=
