@@ -1,7 +1,7 @@
 <html>
 <head>
 </head>
-<body>
+<body><h6>БЕШАННАЯ ТОРГОВЛЯ</h6>
 <form name = "input" action= "form.php" method= "get" >
 Введите Ваше имя: <input type = "text" name ="name" />
 <input type = "submit" value = "Отправить" />
