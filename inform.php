@@ -9,13 +9,13 @@
 <tr><td colspan=2><img width="100%" src= "pauk2-1-2.jpg"/></td></tr>
 
 <tr><td colspan=2 align="center" valign="middle"><a href="http://pautinka.mobi/main.php">главная</a> | <a href=
-"http://pautinka.mobi/inform.php">информ</a> | <a href="http://pautina.mobi/torg.php">торговля</a> | <a href=
+"http://pautinka.mobi/inform.php">информ</a> | <a href="http://pautinka.mobi/torg.php">торговля</a> | <a href=
 "http://pautinka.mobi">выход</a></td></tr>
 <tr><td colspan=2 align="center" valign="middle">
 <h3>Как это работает?</h3>
 После регистрации Вы получите
 специальную реферальную ссылку.<br/>
-<a href="http://pautinka.mobi">http://pautinka.mobi</a>
+<a href="http://pautinka.mobi">http://pautinka.mobi</a><br/>
 Разошлите её другим людям и как
 только они зарегистрируются на
 pautinka.mobi
