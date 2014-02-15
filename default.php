@@ -11,7 +11,7 @@
 <form name = "input" action ="form.php" method= "get"></td><td align="right" valign="middle">E-mail:</td>
 <td><input type = "text"/size=16></td></tr><tr><td align="right" valign="middle">Password:</td>
 <td><input type = "password"/size=16></td></tr>
-<tr><td colspan="2" style="color:#87CEFA;" align="center" valign="middle">&nbsp;<br/><input type ="submit" value= "РЕГИСТРАЦИЯ / ВХОД"/><br/></td></form></tr></table>
+<tr><td colspan="2" align="center" valign="middle"><span tyle="color:#BC8F8F;"><input type ="submit" value= "РЕГИСТРАЦИЯ / ВХОД"/><br/></td></form></tr></table>
 <tr><td colspan="2" align="center" valign="middle"><span style="color:gray;"><br></span>
 &copy; 2014 <a href="http://pautinka.mobi">pautinka.mobi</a></td></tr></table>
 </body>
