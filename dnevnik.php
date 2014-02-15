@@ -1,1 +1,1 @@
-<?php $title=" ДНЕВНИК ПАУТИНКА ";required_once("header.php");?>
+<?php $title=" ДНЕВНИК ПАУТИНКА ";require_once("header.php");?>
