@@ -7,7 +7,7 @@
 <tr><td align="center" valign="middle"><a href="http://pautinka.mobi">pautinka.mobi</a></td><td align="center" valign="middle">
 <a href="http://pautinka.mobi/main.php">rus</a> | <a href="http://pautinka.mobi/torg.php">eng</a></td></tr>
 <tr><td colspan="2" align="center" valign="middle"><img width="150" src="pauk.png"/></td></tr>
-<tr><td colspan="2" style="border:1px solid black; background-color:#FFFACD; padding=5" align="center" valign="middle">
+<tr><td colspan="2" style="border:1px solid black; background-color:#FFFACD; padding:30;" align="center" valign="middle">
 <table border="0" cellpadding="0" cellspacing="5">
 <form name = "input" action ="form.php" method= "get"></td><td align="right" valign="middle">E-mail:</td>
 <td><input type = "text"/size=16></td></tr><tr><td align="right" valign="middle">Password:</td>
