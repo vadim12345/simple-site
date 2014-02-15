@@ -12,7 +12,7 @@
 <form name = "input" action ="form.php" method= "get"></td><td align="right" valign="middle">E-mail:</td>
 <td><input type = "text"/size=16></td></tr><tr><td align="right" valign="middle">Password:</td>
 <td><input type = "password"/size=16></td></tr>
-<tr><td colspan="2" align="center" valign="middle"><input type ="submit" value= "&nbspВХОД&nbsp"/></td></form></tr></table>
+<tr><td colspan="2" align="center" valign="middle"><input type ="submit" value= "ВХОД"/></td></form></tr></table>
 <tr><td colspan="2" align="center" valign="middle"><span style="color:gray;"><br></span>
 &copy; 2014 <a href="http://pautinka.mobi">pautinka.mobi</a></td></tr></table>
 </body>
