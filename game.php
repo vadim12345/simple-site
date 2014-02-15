@@ -1,1 +1,1 @@
-<?php $title=" ИГРОВАЯ ПАУТИНКА ";required_once("header.php");?>
+<?php $title=" ИГРОВАЯ ПАУТИНКА ";require_once("header.php");?>
