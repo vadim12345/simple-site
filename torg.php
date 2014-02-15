@@ -29,7 +29,7 @@
 механизм взаимодействия<br/>
 «поставки против платежа»
 <br/>Реферальная ссылка:<br/> 
-<a href="http://pautinka.mobi">http://pautinka.mobi</a>это КРУТО !!!<br/>
+<a href="http://pautinka.mobi">http://pautinka.mobi</a>ЭТО КРУТО !!!<br/>
 </td></tr>
 <tr><td colspan=2>&nbsp</td></tr>
 <tr><td colspan=2 align="center" valign="middle"><span stule="color:gray;"><hr/></span>
