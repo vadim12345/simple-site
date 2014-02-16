@@ -7,12 +7,11 @@
 
 <tr><td colspan="2" style="border:1px solid black; background-color:#FFFACD;" align="center" valign="middle">
 <table border="0" cellpadding="0" cellspacing="5">
-
 <form action="http://pautinka.mobi/main.php" method="post"></td><td align="right" valign="middle">E-mail:</td>
 <td><input type="text"/size=16 name="e-mail"/></td></tr>
 <tr><td align="right" valign="middle">Password:</td>
 <td><input type="password"/size=16 name="password"/></td></tr>
-<tr><td align="center" valign="middle">&nbsp</td><td><input type="submit" value="ВХОД"/></td></form></tr></table>
+<tr><td align="center" valign="middle">&nbsp</td><td><input type="submit" name="submit" value="ВХОД"/></td></form></tr></table>
 
 <tr><td colspan=2 align="center" valign="middle">&nbsp</td></tr>
 <?php require_once("footer.php");?>
