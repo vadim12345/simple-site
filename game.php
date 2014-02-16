@@ -1,7 +1,6 @@
 <?php $title=" ИГРОВАЯ ПАУТИНКА ";require_once("header.php");?>
 <?php $img="z14-2.jpg";require_once("menu.php");?>
-<tr><td colspan=2 align="center" valign="middle"><h5>ИГРА</h5>
-— вид осмысленной[1]
+<tr><br/><td colspan=2 align="center" valign="middle"><h5>ИГРА</h5>вид осмысленной[1]
 непродуктивной деятельности,
 где мотив лежит не в результате
 её, а в самом процессе.[2] Также
