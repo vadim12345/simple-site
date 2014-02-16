@@ -12,5 +12,6 @@ pautinka.mobi
 Чем больше людей Вы пригласите, 
 тем больше ГОЛОСОВ получите!<br/>
 3 ГОЛОСА = 1 ПАУТИНКA</td></tr>
+<tr><td colspan=2 align="center" valign="middle">&nbsp</td></tr>
 <?php require_once("footer.php");?>
 
