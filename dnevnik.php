@@ -1,6 +1,6 @@
 <?php $title=" ДНЕВНИК ПАУТИНКА ";require_once("header.php");?>
-<?php $img="z15.jpg";require_once("menu.php");?>
-<tr><td colspan=2 align="center" valign="middle"><b>дневни</b><br/>
+<?php $img="z19.jpg";require_once("menu.php");?>
+<tr><td colspan=2 align="center" valign="middle"><b>дневник</b><br/>
 совокупность
 фрагментарных записей, которые
 делаются для себя, ведутся
