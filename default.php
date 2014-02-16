@@ -13,7 +13,7 @@
 <td><input type = "text"/size=16></td></tr><tr><td align="right" valign="middle">Password:</td>
 <td><input type = "password"/size=16></td></tr>
 <tr><td align="center" valign="middle">&nbsp</td><td><input type ="submit" value= "ВХОД"/></td></form></tr></table>
-<tr><td colspan="2" align="center" valign="middle"><br/> &copy; 2014 <a href="http://pautinka.mobi">pautinka.mobi</a>
+<tr><td colspan="2" style="background-color:#E6E6FA" align="center" valign="middle"><br/> &copy; 2014 <a href="http://pautinka.mobi">pautinka.mobi</a>
 </td></tr></table>
 </body>
 </html>
