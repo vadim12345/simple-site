@@ -1,5 +1,5 @@
 <?php $title=" ТОРГОВАЯ ПАУТИНКА ";require_once("header.php");?>
-<?php $img="z16.jpg";require_once("menu.php");?>
+<?php $img="z17.jpg";require_once("menu.php");?>
 <tr><td colspan=2 align="center" valign="middle">
 <h3><br/>ТОРГОВЛЯ</h3>
 Торги проходят в электронном
