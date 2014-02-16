@@ -1,3 +1,13 @@
 <?php $title=" ИГРОВАЯ ПАУТИНКА ";require_once("header.php");?>
-<?php $img="z13.jpg";require_once("menu.php");?>
+<?php $img="z14-2.jpg";require_once("menu.php");?>
+<tr><td colspan=2 align="center" valign="middle"><h5>ИГРА</h5>
+— вид осмысленной[1]
+непродуктивной деятельности,
+где мотив лежит не в результате
+её, а в самом процессе.[2] Также
+термин «Игра» используют для
+обозначения набора предметов
+или программ , предназначенных
+для подобной деятельности.</td></tr>
+<tr><td colspan=2 align="center" valign="middle">&nbsp</td></tr>
 <?php require_once("footer.php");?>
