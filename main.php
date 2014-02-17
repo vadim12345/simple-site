@@ -1,5 +1,5 @@
 <?php $title="ГЛАВНАЯ ПАУТИНКА";require_once("header.php");?>
-<?php $img="pauk1-1.jpg";require_once("menu.php");?>
+<?php $img="pauk1-1.jpg";require_once("body.php");?>
 <tr><td><?php echo "E-mail:<strong>".$_POST["e-mail"]."</strong><br/>";echo "Password: ".$_POST["password"];?></td</tr>
 
 <tr><td colspan=2 align="center" valign="middle"><h3><br/>Паутинка!</h3> символизирует порядок и равновесие сил, 
