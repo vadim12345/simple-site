@@ -1,5 +1,5 @@
 <?php $title=" ИГРОВАЯ ПАУТИНКА ";require_once("header.php");?>
-<?php $img="z14-2.jpg";require_once("menu.php");?>
+<?php $img="z14-2.jpg";require_once("body.php");?>
 <tr><td colspan=2 align="center" valign="middle"><b>игра</b><br/>вид осмысленной
 непродуктивной деятельности,
 где мотив лежит не в результате
