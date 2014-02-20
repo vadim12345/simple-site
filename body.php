@@ -5,9 +5,10 @@ pautinka.mobi</a></td><td align="center" valign="middle"><a href="http://www.pau
 "http://www.pautinka.mobi/torg.php">eng</a></td></tr>
 <tr><td colspan=2><img width="100%" src= "<?php echo $img;?>"/></td></tr>
 
-<tr><td colspan=2 style="background-color:#A52A2A;" align="center" valig="midle"><a href="http://www.pautinka.mobi/main.php">главная</a> | <a href=
+<tr><td colspan=2 style="background-color:#000000;" align="center" valign="middle"><a href=
+"http://www.pautinka.mobi/main.php">главная</a> | <a href=
 "http://www.pautinka.mobi/inform.php">информ</a> | <a href="http://www.pautinka.mobi/torg.php">торговля</a> | <a href=
 "http://www.pautinka.mobi/game.php">игра</a> | <a href="http://www.pautinka.mobi/dnevnik.php">дневник</a> | <a href=
 "http://www.pautinka.mobi">выход</a></td></tr>
-<tr><td>
+<tr><td colspan="2" align="center" valign="middle">
 
