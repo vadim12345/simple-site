@@ -1,7 +1,13 @@
 <?php $title=" ТОРГОВАЯ ПАУТИНКА ";require_once("header.php");?>
 <?php $img="z17.jpg";require_once("body.php");?>
-<table border="1" align="center" cellpadding="10" cellspacing="5">
-<tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr></table>
+<table border="1" width="100%" align="center" cellpadding="5" cellspacing="2">
+<tr><td align="center">PAU</td><td align="center"><img width="30" height="30" src="w6.jpg"></td><td align="center"><img width="30" height="30" src="w1.jpg"></td>
+<td align="center"><img width="30" height="30"src="w3.jpg"></td>
+<td align="center"><img width="30" height="30" src="w4.jpg"></td><td align="center"><img width="30" height="30" src="w5.jpg"></td></tr>
+<tr><td align="center">USD</td><td align="center">3.3</td><td align="center">33</td><td align="center">330</td><td align="center">3.300</td><td align="center">33.000</td></tr>
+<tr><td align="center">RUR</td><td align="center">132</td><td align="center">1.320</td><td align="center">13.200</td><td align="center">132.000</td><td align="center">1.320.000</td></tr>
+<tr><td align="center">EUR</td><td align="center">2.64</td><td align="center">26.4</td><td align="center">264</td><td align="center">2.640</td><td align="center">26.400</td></tr>
+<tr><td align="center">BTC</td><td align="center">0.0055</td><td align="center">0.055</td><td align="center">0.55</td><td align="center">5.5</td><td align="center">55</td></tr></table>
 
 <tr><td colspan=2 align="center" valign="middle">
 <h3><br/>ТОРГОВЛЯ</h3>
