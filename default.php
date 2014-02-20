@@ -13,5 +13,5 @@
 <td><input type="password"/size=16 name="password"/></td></tr>
 <tr><td align="center" valign="middle">&nbsp</td><td><input type="submit" name="submit" value="ВХОД"/></td></form></tr></table>
 
-<tr><td colspan=2 align="center" valign="middle">&nbsp</td></tr>
+<tr><td colspan="2" align="center" valign="middle"><img width="100%" src="p1.jpg"/>&nbsp</td></tr>
 <?php require_once("footer.php");?>
