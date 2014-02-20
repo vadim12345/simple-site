@@ -9,18 +9,6 @@
 <tr><td align="center"><img width="30" height="30" src="w3.jpg"></td><td align="center">330</td><td align="center">264</td><td align="center">0.55</td><td align="center">13.200</td></tr>
 <tr><td align="center"><img width="30" height="30" src="w4.jpg"></td><td align="center">3.300</td><td align="center">2.640</td><td align="center">5.5</td><td align="center">132.000</td></tr>
 <tr><td align="center"><img width="30" height="30" src="w5.jpg"></td><td align="center">33.000</td><td align="center">26.400</td><td align="center">55</td><td align="center">1.320.000</td></tr>
-</table></td></tr></table>
-
-
-
-<tr><td colspan="2" align="center" valign="middle">
-<h3><br/>ТОРГОВЛЯ</h3>
-Торги проходят в электронном
-виде с использованием
-специализированных программ.<br/>
-ПАУТИНКА ведёт учёт
-исполненных сделок, реализует,
-организует и гарантирует
-расчёты.</td></tr>
-<tr><td colspan="2" align="center" valign="middle">&nbsp</td></tr>
+</table>
+</td></tr></tablee>
 <?php require_once("footer.php");?>
