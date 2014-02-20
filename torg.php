@@ -18,7 +18,7 @@
 </table>
 
 
-<tr><td colspan=2 align="center" valign="middle">
+<tr><td align="center" valign="middle">
 <h3><br/>ТОРГОВЛЯ</h3>
 Торги проходят в электронном
 виде с использованием
@@ -28,5 +28,5 @@
 организует и гарантирует
 расчёты.</td></tr>
 
-<tr><td colspan=2 align="center" valign="middle">&nbsp</td></tr>
+<tr><td align="center" valign="middle">&nbsp</td></tr>
 <?php require_once("footer.php");?>
