@@ -3,7 +3,7 @@
 <body style="padding:0;margin:0;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"><a href="http://pautinka.mobi">pautinka.mobi</a></td><td align="center" valign="middle">
 <a href="http://pautinka.mobi/main.php">rus</a> | <a href="http://pautinka.mobi/torg.php">eng</a></td></tr>
-<tr><td colspan="2" <img width="100%" src="p2.jpg"/> align="center" valign="middle"><img width="150" src="pauk.png"/></td></tr>
+<tr><td colspan="2" align="center" valign="middle"><img width="150" src="pauk.png"/></td></tr>
 
 <tr><td colspan="2" style="border:1px solid black; background-color:#FFFACD;" align="center" valign="middle">
 <table border="0" cellpadding="0" cellspacing="5">
