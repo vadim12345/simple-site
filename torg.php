@@ -1,7 +1,7 @@
 <?php $title=" ТОРГОВАЯ ПАУТИНКА ";require_once("header.php");?>
 <?php $img="z17.jpg";require_once("body.php");?>
 
-<table border="1" width="80%" align="center" valign="middle" cellpadding="3" cellspacing="0">
+<table border="1" width="100%" align="center" valign="middle" cellpadding="3" cellspacing="0">
 <tr><td align="center">PAU</td><td align="center">USD</td>
 <td align="center">EUR</td><td align="center">BTC</td><td align="center">RUR</td></tr>
 <tr><td align="center"><img width="30" height="30" src="w1.jpg"></td><td align="center">3.3</td>
