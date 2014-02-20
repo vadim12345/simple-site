@@ -9,5 +9,5 @@ pautinka.mobi</a></td><td align="center" valign="middle"><a href="http://www.pau
 "http://www.pautinka.mobi/inform.php">информ</a> | <a href="http://www.pautinka.mobi/torg.php">торговля</a> | <a href=
 "http://www.pautinka.mobi/game.php">игра</a> | <a href="http://www.pautinka.mobi/dnevnik.php">дневник</a> | <a href=
 "http://www.pautinka.mobi">выход</a></td></tr>
-
+<tr><td>
 
