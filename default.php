@@ -5,7 +5,7 @@
 <a href="http://pautinka.mobi/main.php">rus</a> | <a href="http://pautinka.mobi/torg.php">eng</a></td></tr>
 <tr><td colspan="2" align="center" valign="middle"><img width="150" src="pauk.png"/></td></tr>
 
-<tr><td colspan="2" style="border:1px solid black; background-color:#FFFACD;" align="center" valign="middle">
+<tr><td colspan="2" style="border:0; background-color:#FFFACD;" align="center" valign="middle">
 <table border="0" cellpadding="0" cellspacing="5">
 <form action="http://pautinka.mobi/main.php" method="post"></td><td align="right" valign="middle">E-mail:</td>
 <td><input type="text"/size=16 name="e-mail"/></td></tr>
