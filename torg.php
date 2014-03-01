@@ -1,7 +1,7 @@
 <?php $title=" ТОРГОВАЯ ПАУТИНКА ";require_once("header.php");?>
-<?php $img="z17.jpg";require_once("body.php");?>
+<?php $img="X2.jpg";require_once("body.php");?>
 
-<tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
+<table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 
 <table border="1" width="100%" align="center" valign="middle" cellpadding="2" cellspacing="2">
 <tr><td width="28%" align="center" valign="middle">PAU</td><td width="24%" align="center" valign="middle">USD</td>
@@ -16,8 +16,7 @@ align="center" valign="middle"><p style="color:white">PAU tina</p></td><td align
 <td align="center" valign="middle">13.200</td></tr>
 <tr><td style="background-color:gold" align="center" valign="middle"><p style="color:white">PAU gold</p></td>
 <td align="center" valign="middle">3.300</td><td align="center" valign="middle">5.5</td>
-<td align="center" valign="middle">132.000</td></tr></table>
-</td></tr>
+<td align="center" valign="middle">132.000</td></tr>
 </table>
 
 <?php require_once("footer.php");?>
