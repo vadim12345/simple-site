@@ -1,19 +1,23 @@
 <?php $title=" ТОРГОВАЯ ПАУТИНКА ";require_once("header.php");?>
 <?php $img="z17.jpg";require_once("body.php");?>
 
+<tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
+
 <table border="1" width="100%" align="center" valign="middle" cellpadding="2" cellspacing="2">
-<tr><td align="center" width="40">PAU</td><td align="center" width="40">USD</td>
-<td align="center" width="40">BTC</td><td align="center" width="40">RUR</td></tr>
-<tr><td align="center"><img width="40" height="40" src="w1.jpg"></td><td align="center">3.3</td>
-<td align="center">0.0055</td><td align="center">132</td></tr>
-<tr><td align="center"><img width="40" height="40" src="w2.jpg"></td><td align="center">33</td>
-<td align="center">0.055</td><td align="center">1.320</td></tr>
-<tr><td align="center"><img width="40" height="40" src="w3.jpg"></td><td align="center">330</td>
-<td align="center">0.55</td><td align="center">13.200</td></tr>
-<tr><td align="center"><img width="40" height="40" src="w4.jpg"></td><td align="center">3.300</td>
-<td align="center">5.5</td><td align="center">132.000</td></tr>
-<tr><td align="center"><img width="40" height="40" src="w5.jpg"></td><td align="center">33.000</td>
-<td align="center">55</td><td align="center">1.320.000</td></tr>
+<tr><td width="28%" align="center" valign="middle">PAU</td><td width="24%" align="center" valign="middle">USD</td>
+<td width="24%" align="center" valign="middle">BTC</td><td width="24%" align="center" valign="middle">RUR</td></tr>
+<tr><td style="background-color:#DC143C"
+align="center" valign="middle"><p style="color:white">PAU tina</p></td><td align="center" valign="middle">3.3</td><td align="center" valign="middle">0.0055</td><td align="center" valign="middle">132</td></tr>
+<tr><td style="background-color:#6A5ACD" align="center" valign="middle"><p style="color:white">PAU chok</p></td>
+<td align="center" valign="middle">33</td><td align="center" valign="middle">0.055</td>
+<td align="center" valign="middle">1.320</td></tr>
+<tr><td style="background-color:#9ACD32" align="center" valign="middle"><p style="color:white">PAU koko</p></td>
+<td align="center" valign="middle">330</td><td align="center" valign="middle">0.55</td>
+<td align="center" valign="middle">13.200</td></tr>
+<tr><td style="background-color:gold" align="center" valign="middle"><p style="color:white">PAU gold</p></td>
+<td align="center" valign="middle">3.300</td><td align="center" valign="middle">5.5</td>
+<td align="center" valign="middle">132.000</td></tr></table>
+</td></tr>
 </table>
 
 <?php require_once("footer.php");?>
