@@ -3,7 +3,7 @@
 <body style="padding:0;margin:0;">
 <table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td>
 
-<table><tr><td style="background-color:#E6E6FA;" align="center" valign="middle"><a href="http://pautinka.mobi">pautinka.mobi
+<table><tr><td colspan="4" style="background-color:#E6E6FA;" align="center" valign="middle"><a href="http://pautinka.mobi">pautinka.mobi
 </a></td><td align="center" valign="middle">
 <a href="http://pautinka.mobi/main.php">rus</a> | <a href="http://pautinka.mobi/torg.php">eng</a></td></tr></table>
 
