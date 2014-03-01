@@ -8,7 +8,7 @@ echo "Password: ".$_POST["password"];?></td</tr></table>
 
 <table border="1" colspan="4" width="100%" align="center" valign="middle" cellpadding="2" cellspacing="2">
 <tr><td style="border:0;" rowspan="2" colspan="2" align="center" valign="middle"> <img width="100%" height="100%" 
-src="pauk3.jpg"></td><td style="border:0; color:#2F4F4F;" colspan="2" align="left" valign="middle"> 
+src="pauk3-1.jpg"></td><td style="border:0; color:#2F4F4F;" colspan="2" align="left" valign="middle"> 
 1.  Zaitseva</td></tr><tr><td style="border:0;" colspan="2" align="center" valign="middle">&nbsp</td></tr>
 <tr><td style="background-color:#DC143C;"
 align="center" valign="middle" width="25%"><p style="color:white;">PAU tina</p></td>
@@ -22,7 +22,8 @@ align="center" valign="middle" width="25%"><p style="color:white;">PAU tina</p><
 
 <table border="1" colspan="4" width="100%" align="center" valign="middle" cellpadding="2"
 cellspacing="2">
-<tr><td style="border:0;" rowspan="2" colspan="2" align="center" valign="middle"> <img width="100%" height="100%" src="pauk3.jpg"></td><td style="border:0; color:#2F4F4F;" colspan="2" align="left" valign="middle"> 
+<tr><td style="border:0;" rowspan="2" colspan="2" align="center" valign="middle"> <img width="100%" height="100%" 
+src="pauk3-1.jpg"></td><td style="border:0; color:#2F4F4F;" colspan="2" align="left" valign="middle"> 
 2. Vadim12345</td></tr><tr><td style="border:0;" colspan="2" align="center" valign="middle">&nbsp</td></tr>
 <tr><td style="background-color:#DC143C;"
 align="center" valign="middle" width="25%"><p style="color:white;">PAU tina</p></td>
@@ -36,7 +37,8 @@ align="center" valign="middle" width="25%"><p style="color:white;">PAU tina</p><
 
 <table border="1" colspan="4" width="100%" align="center" valign="middle" cellpadding="2"
 cellspacing="2">
-<tr><td style="border:0;" rowspan="2" colspan="2" align="center" valign="middle"> <img width="100%" height="100%" src="pauk3.jpg"></td><td style="border:0; color:#2F4F4F;"  colspan="2" align="left" valign="middle"> 
+<tr><td style="border:0;" rowspan="2" colspan="2" align="center" valign="middle"> <img width="100%" height="100%" 
+src="pauk3-1.jpg"></td><td style="border:0; color:#2F4F4F;"  colspan="2" align="left" valign="middle"> 
 3. </td></tr><tr><td style="border:0;" colspan="2" align="center" valign="middle">&nbsp</td></tr>
 <tr><td style="background-color:#DC143C;"
 align="center" valign="middle" width="25%"><p style="color:white;">PAU tina</p></td>
@@ -50,7 +52,8 @@ align="center" valign="middle" width="25%"><p style="color:white;">PAU tina</p><
 
 <table border="1" colspan="4" width="100%" align="center" valign="middle" cellpadding="2"
 cellspacing="2">
-<tr><td style="border:0;" rowspan="2" colspan="2" align="center" valign="middle"> <img width="100%" height="100%" src="pauk3.jpg"></td><td style="border:0; color:#2F4F4F;"  colspan="2" align="left" valign="middle"> 
+<tr><td style="border:0;" rowspan="2" colspan="2" align="center" valign="middle"> <img width="100%" height="100%" 
+src="pauk3-1.jpg"></td><td style="border:0; color:#2F4F4F;"  colspan="2" align="left" valign="middle"> 
 4. </td></tr><tr><td style="border:0;" colspan="2" align="center" valign="middle">&nbsp</td></tr>
 <tr><td style="background-color:#DC143C;"
 align="center" valign="middle" width="25%"><p style="color:white;">PAU tina</p></td>
@@ -64,7 +67,8 @@ align="center" valign="middle" width="25%"><p style="color:white;">PAU tina</p><
 
 <table border="1" colspan="4" width="100%" align="center" valign="middle" cellpadding="2"
 cellspacing="2">
-<tr><td style="border:0;" rowspan="2" colspan="2" align="center" valign="middle"> <img width="100%" height="100%" src="pauk3.jpg"></td><td style="border:0; color:#2F4F4F;" colspan="2" align="left" valign="middle"> 
+<tr><td style="border:0;" rowspan="2" colspan="2" align="center" valign="middle"> <img width="100%" height="100%" 
+src="pauk3-1.jpg"></td><td style="border:0; color:#2F4F4F;" colspan="2" align="left" valign="middle"> 
 5. </td></tr><tr><td style="border:0;" colspan="2" align="center" valign="middle">&nbsp</td></tr>
 <tr><td style="background-color:#DC143C;"
 align="center" valign="middle" width="25%"><p style="color:white;">PAU tina</p></td>
