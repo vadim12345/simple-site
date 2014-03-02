@@ -1,10 +1,14 @@
 <?php $title=" ИНФОРМАЦИЯ ";require_once("header.php");?>
 <?php $img="x2.jpg";require_once("body.php");?>
 
-<table border="1" colspan="4" width="100%" align="center" valign="middle" cellpadding="0" cellspacing="0">
+<tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
+
+
+<table border="1" colspan="4" width="100%" align="center" valign="middle" cellpadding="2" cellspacing="2">
 <tr><td style="border:1;"  colspan="4" align="center" valign="middle"><p>Чем больше друзей приглосите в паутинку тем
-больше голосов получаете, и тем больше PAU у вас будет.</td></tr><tr><td style="border:1;  colspan="4" 
-align="center" valign="middle">PAU можно</td><td align="center" valign="middle">Существует 4 вида PAU</td></tr></table>
+больше голосов получаете, и тем больше PAU у вас будет.</p></td></tr><tr><td border="1" colspan="2"
+align="center" valign="middle"><p>PAU можно</p></td><td border="1" colspan="2" align="center" valign="middle"><p>Существует 
+4 вида PAU</p></td></tr></table>
 
 <tr><td colspan="4" align="center" valign="middle">
 <h3><br/>Как это работает?</h3>
