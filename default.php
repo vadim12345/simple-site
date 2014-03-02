@@ -32,6 +32,6 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 <tr><td align="center" valign="middle">&nbsp</td><td><input type="submit" name="submit" value="ВХОД"/></td></form></tr>
 </table>
 
-<table><tr><td colspan="2" align="center" valign="middle">&nbsp</td></tr></table>
+<table><tr><td colspan="4" align="center" valign="middle"><P>Плети свою сеть!</p></td></tr></table>
 
 <?php require_once("footer.php");?>
