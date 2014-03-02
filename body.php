@@ -8,11 +8,11 @@ href="http://www.pautinka.mobi">pautinka.mobi</a></td><td align="center" valign=
 <tr><td colspan="4"><img width="100%" src= "<?php echo $img;?>"/></td></tr>
 
 <tr><td colspan="4" style="text-decoration:none; color:white;"
-align="center" valign="middle"><a style="text-decoration:none; color:white;" href="http://www.pautinka.mobi/main.php">
-главная</a> | <a style="text-decoration:none; color:white;" href="http://www.pautinka.mobi/inform.php">информ</a> | <a 
-style="text-decoration:none; color:#1E90FF;" href="http://www.pautinka.mobi/torg.php">торговля</a> | <a 
-style="text-decoration:none; color:#1E90FF;" href="http://www.pautinka.mobi/game.php">игра</a> | <a
-style="text-decoration:none; color:#1E90FF;" href="http://www.pautinka.mobi/dnevnik.php">дневник</a> | <a 
-style="text-decoration:none; color:#1E90FF;" href="http://www.pautinka.mobi">выход</a></td></tr>
+align="center" valign="middle"><a style="text-decoration:none; color:#0000CD;" href="http://www.pautinka.mobi/main.php">
+главная</a> | <a style="text-decoration:none; color:#0000CD;" href="http://www.pautinka.mobi/inform.php">информ</a> | <a 
+style="text-decoration:none; color:#0000CD;" href="http://www.pautinka.mobi/torg.php">торговля</a> | <a 
+style="text-decoration:none; color:#0000CD;" href="http://www.pautinka.mobi/game.php">игра</a> | <a
+style="text-decoration:none; color:#0000CD;" href="http://www.pautinka.mobi/dnevnik.php">дневник</a> | <a 
+style="text-decoration:none; color:#0000CD;" href="http://www.pautinka.mobi">выход</a></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 
