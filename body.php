@@ -8,9 +8,8 @@ pautinka.mobi</a></td><td align="center" valign="middle"><a href="http://www.pau
 
 <tr><td colspan="4"><img width="100%" src= "<?php echo $img;?>"/></td></tr>
 
-<tr><td colspan="4" style="background-color:#FFFACD; text-decoration:none; color:white;" align="center" valign="middle"><a href=
-"http://www.pautinka.mobi/main.php">главная</a> | <a href=
-"http://www.pautinka.mobi/inform.php">информ</a> | <a href="http://www.pautinka.mobi/torg.php">торговля</a> | <a href=
+<tr><td colspan="4" style="background-color:#FFFACD; text-decoration:none; color:white;"
+align="center" valign="middle"><a href="text-decoration:none; color:white; http://www.pautinka.mobi/main.php">главная</a> | <a href="http://www.pautinka.mobi/inform.php">информ</a> | <a href="http://www.pautinka.mobi/torg.php">торговля</a> | <a href=
 "http://www.pautinka.mobi/game.php">игра</a> | <a href="http://www.pautinka.mobi/dnevnik.php">дневник</a> | <a href=
 "http://www.pautinka.mobi">выход</a></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
