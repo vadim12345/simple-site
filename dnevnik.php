@@ -1,4 +1,4 @@
-<?php $title=" ДНЕВНИК ПАУТИНКА ";require_once("header.php");?>
+<?php $title=" ДНЕВНИК ";require_once("header.php");?>
 <?php $img="x2.jpg";require_once("body.php");?>
 
 <table><tr><td colspan="2" align="center" valign="middle">&nbsp</td></tr></table>
