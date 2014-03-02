@@ -7,8 +7,8 @@
 <td style="background-color:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;" 
 href="http://pautinka.mobi">pautinka.mobi</a>
 </td><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp</p></td>
-<td align="center" valign="middle"><a style="color:red;" style href="http://pautinka.mobi/main.php">rus</a> | <a style="color:#0000CD;"
-href="http://pautinka.mobi/torg.php">eng</a></td></tr>
+<td align="center" valign="middle"><a style="color:#DC143C;" href="http://pautinka.mobi/main.php">rus</a> | <a 
+style="color:#0000CD;" href="http://pautinka.mobi/torg.php">eng</a></td></tr>
 
 <table border="0" width="100%" align="center" valign="middle" cellpadding="3" cellspacing="2">
 <tr><td style="border:0;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp</p></td>
