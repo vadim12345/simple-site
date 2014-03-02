@@ -7,7 +7,7 @@ href="http://www.pautinka.mobi">pautinka.mobi</a></td><td align="center" valign=
 
 <tr><td colspan="4"><img width="100%" src= "<?php echo $img;?>"/></td></tr>
 
-<tr><td colspan="4" style="background-color:#708090; text-decoration:none; color:white;"
+<tr><td colspan="4" style="background-color:#A0522D; text-decoration:none; color:white;"
 align="center" valign="middle"><a style="text-decoration:none; color:white;" href="http://www.pautinka.mobi/main.php">
 главная</a> | <a style="text-decoration:none; color:white;" href="http://www.pautinka.mobi/inform.php">информ</a> | <a 
 style="text-decoration:none; color:white;" href="http://www.pautinka.mobi/torg.php">торговля</a> | <a 
