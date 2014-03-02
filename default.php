@@ -1,6 +1,7 @@
 <?php $title=" МОБИЛЬНАЯ ПАУТИНКА ";require_once("header.php");?>
 
 <body style="padding:0;	margin:0;">
+<table><tr><td>
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp</p></td>
 <td style="background-color:#E6E6FA;" align="center" valign="middle"><a href="http://pautinka.mobi">pautinka.mobi</a>
@@ -28,7 +29,8 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 <td><input type="text"/size=16 name="e-mail"/></td></tr>
 <tr><td align="right" valign="middle">Password:</td>
 <td><input type="password"/size=16 name="password"/></td></tr>
-<tr><td align="center" valign="middle">&nbsp</td><td><input type="submit" name="submit" value="ВХОД"/></td></form></tr></table>
+<tr><td align="center" valign="middle">&nbsp</td><td><input type="submit" name="submit" value="ВХОД"/></td></form></tr>
+</table>
 
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 
