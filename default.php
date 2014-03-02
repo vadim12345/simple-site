@@ -34,3 +34,4 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 
+<?php require_once("footer.php");?>
