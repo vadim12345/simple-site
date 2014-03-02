@@ -1,4 +1,4 @@
-<?php $title=" ИНФОРМ ПАУТИНКА ";require_once("header.php");?>
+<?php $title=" ИНФОРМАЦИЯ ";require_once("header.php");?>
 <?php $img="x2.jpg";require_once("body.php");?>
 <tr><td colspan=2 align="center" valign="middle">
 <h3><br/>Как это работает?</h3>
