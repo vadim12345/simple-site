@@ -4,9 +4,10 @@
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp</p></td>
-<td style="background-color:#E6E6FA;" align="center" valign="middle"><a href="http://pautinka.mobi">pautinka.mobi</a>
+<td style="background-color:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;" 
+href="http://pautinka.mobi">pautinka.mobi</a>
 </td><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp</p></td>
-<td align="center" valign="middle"><a href="http://pautinka.mobi/main.php">rus</a> | <a 
+<td align="center" valign="middle"><a style="color:red;" style href="http://pautinka.mobi/main.php">rus</a> | <a style="color:#0000CD;"
 href="http://pautinka.mobi/torg.php">eng</a></td></tr>
 
 <table border="0" width="100%" align="center" valign="middle" cellpadding="3" cellspacing="2">
