@@ -1,7 +1,7 @@
 <?php $title=" МОБИЛЬНАЯ ПАУТИНКА ";require_once("header.php");?>
 
 <body style="padding:0;	margin:0;">
-<table><tr><td>
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp</p></td>
 <td style="background-color:#E6E6FA;" align="center" valign="middle"><a href="http://pautinka.mobi">pautinka.mobi</a>
@@ -34,4 +34,3 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 
-<?php require_once("footer.php");?>
