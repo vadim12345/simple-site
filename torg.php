@@ -1,4 +1,4 @@
-<?php $title=" ТОРГОВАЯ ПАУТИНКА ";require_once("header.php");?>
+<?php $title=" ТОРГОВАЯ ПЛОЩАДКА ";require_once("header.php");?>
 <?php $img="x2.jpg";require_once("body.php");?>
 
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
