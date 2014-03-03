@@ -34,6 +34,7 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 </table>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">
-<i style="color:#DCDCDC;">-Паутинка-<br/>основное&nbspзначение<br/>связывать&nbspи&nbspудерживать.</i></td></tr>
+<i style="color:#DCDCDC;"><p>Плети свою сеть!</p><br/><p>Основное&nbspзначение<br/>связывать&nbspи&nbspудерживать.</p>
+</i></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <?php require_once("footer.php");?>
