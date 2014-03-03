@@ -34,7 +34,6 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 </table>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">
-<i style="color:#DCDCDC;">Паутинка&nbspсимволизирует<br/>порядок&nbspи&nbspравновесие&nbspсил,<br/>
-однако<br/>основное&nbspзначение<br/>связывать&nbspи&nbspудерживать.</i></td></tr>
+<i style="color:#DCDCDC;">-Паутинка-<br/>основное&nbspзначение<br/>связывать&nbspи&nbspудерживать.</i></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <?php require_once("footer.php");?>
