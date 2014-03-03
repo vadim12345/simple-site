@@ -5,8 +5,7 @@
 
 <table border="1" colspan="4" align="center">
 <tr><td align="center" valign="middle">Чем больше друзей приглосите в паутинку тем
-больше голосов получаете, и тем больше PAU у вас будет.</td></tr>
-</table>
+больше голосов получаете, и тем больше PAU у вас будет.</td></tr></table>
 <tr><td colspan="4" align="center" valign="middle">
 <h3><br/>Как это работает?</h3>
 После регистрации Вы получите
@@ -18,7 +17,7 @@ pautinka.mobi
 Вам будут зачислен 1 ГОЛОС.
 Чем больше людей Вы пригласите, 
 тем больше ГОЛОСОВ получите!<br/>
-3 ГОЛОСА = 1 ПАУТИНКA</td></tr></table>
+3 ГОЛОСА = 1 ПАУТИНКA</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 
 <?php require_once("footer.php");?>
