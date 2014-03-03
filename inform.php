@@ -1,8 +1,8 @@
 <?php $title=" ИНФОРМАЦИЯ ";require_once("header.php");?>
 <?php $img="x2.jpg";require_once("body.php");?>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
-<tr><td colspan="4" align="center" valign="middle">Чем больше друзей приглосите в паутинку тем
-больше голосов получаете, и тем больше PAU у вас будет.</td></tr>
+<tr><td colspan="4" align="center" valign="middle"><p>Чем больше друзей приглосите в паутинку, тем
+больше голосов получаете и тем больше PAU у вас будет.</p></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 <h3><br/>Как это работает?</h3>
 После регистрации Вы получите
