@@ -3,8 +3,8 @@
 
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 
-<table border="1" colspan="4" align="center">
-<tr><td align="center" valign="middle">Чем больше друзей приглосите в паутинку тем
+<table border="1" align="center">
+<tr><td colspan="4" align="center" valign="middle">Чем больше друзей приглосите в паутинку тем
 больше голосов получаете, и тем больше PAU у вас будет.</td></tr></table>
 <tr><td colspan="4" align="center" valign="middle">
 <h3><br/>Как это работает?</h3>
