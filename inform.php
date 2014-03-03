@@ -2,7 +2,7 @@
 <?php $img="x2.jpg";require_once("body.php");?>
 
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
-<tr><td align="center" valign="middle" border="1" colspan="4">Чем больше друзей приглосите в паутинку тем
+<tr><td style="border:1;" align="center" valign="middle" colspan="4">Чем больше друзей приглосите в паутинку тем
 больше голосов получаете, и тем больше PAU у вас будет.</td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 <h3><br/>Как это работает?</h3>
