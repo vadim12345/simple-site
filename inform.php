@@ -1,9 +1,11 @@
 <?php $title=" ИНФОРМАЦИЯ ";require_once("header.php");?>
 <?php $img="x2.jpg";require_once("body.php");?>
 
+<table border="1" cokspan="4" align="center">
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
-<tr><td style="border:1;" align="center" valign="middle" colspan="4">Чем больше друзей приглосите в паутинку тем
+<tr><td style="border:0;" align="center" valign="middle" colspan="4">Чем больше друзей приглосите в паутинку тем
 больше голосов получаете, и тем больше PAU у вас будет.</td></tr>
+</table>
 <tr><td colspan="4" align="center" valign="middle">
 <h3><br/>Как это работает?</h3>
 После регистрации Вы получите
