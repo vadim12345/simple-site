@@ -4,8 +4,8 @@
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 
 <table border="1" width="98%" align="center" valign="middle" cellpadding="3">
-<tr align="center"><td><pre>Чем больше друзей приглосите в паутинку тем
-больше голосов получаете, и тем больше PAU у вас будет.</pre></td></tr>
+<tr align="center"><td>Чем больше друзей приглосите в паутинку тем
+больше голосов получаете, и тем больше PAU у вас будет.</td></tr>
 </table>
 
 <tr><td colspan="4" align="center" valign="middle">
