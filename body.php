@@ -5,7 +5,7 @@
 href="http://www.pautinka.mobi">pautinka.mobi</a></td><td align="center" valign="middle">
 <a style="color:#DC143C;" href="http://www.pautinka.mobi/main.php">rus</a> | <a style="color:#0000CD;" href="http://www.pautinka.mobi/torg.php">eng</a></td></tr>
 
-<tr><td colspan="4"><img width="100%" src= "<?php echo $img;?>"/></td></tr>
+<tr><td colspan="4"><img alt="pautinka" width="100%" src= "<?php echo $img;?>"></td></tr>
 
 <tr><td colspan="4" style="background-color:#E6E6FA; text-decoration:none; color:white;"
 align="center" valign="middle"><a style="text-decoration:none; color:#0000CD;" href="http://www.pautinka.mobi/main.php">
