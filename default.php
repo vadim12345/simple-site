@@ -9,7 +9,7 @@ href="http://pautinka.mobi">pautinka.mobi</a>
 </td><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp</p></td>
 <td align="center" valign="middle"><a style="color:#DC143C;" href="http://pautinka.mobi/main.php">rus</a> | <a 
 style="color:#0000CD;" href="http://pautinka.mobi/torg.php">eng</a></td></tr>
-
+<tr><td colspan="4" align="center" valign="middle">
 <table border="0" width="100%" cellpadding="3" cellspacing="2">
 <tr><td style="border:0;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp</p></td>
 <td style="border:0;" width="28%" align="center" valign="middle"><p>&nbsp</p></td>
@@ -32,7 +32,7 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 <tr><td align="right" valign="middle">Password:</td>
 <td><input type="password"/size=16 name="password"/></td></tr>
 <tr><td align="center" valign="middle">&nbsp</td><td><input type="submit" name="submit" value="ВХОД"/></td></form></tr>
-</table>
+</table></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <?php require_once("footer.php");?>
