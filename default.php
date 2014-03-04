@@ -30,8 +30,8 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 <form action="http://pautinka.mobi/main.php" method="post"></td><td align="right" valign="middle">E-mail:</td>
 <td><input type="text"/size=16 name="e-mail"/></td></tr>
 <tr><td align="right" valign="middle">Password:</td>
-<td><input type="password"/size=16 name="password"/></td></tr>
-<tr><td align="center" valign="middle">&nbsp</td><td><input type="submit" name="submit" value="ВХОД"/></td></form></tr>
+<td><input type="password"/size=16 name="password"></td></tr>
+<tr><td align="center" valign="middle">&nbsp</td><td><input type="submit" name="submit" value="ВХОД"></td></form></tr>
 </table></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
