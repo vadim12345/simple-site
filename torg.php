@@ -2,8 +2,7 @@
 <?php $img="x2.jpg";require_once("body.php");?>
 
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
-<tr><td colspan="4" align="center" valign="middle"><p>PAU | ПОКУПКА / ПРОДАЖА</p></td></tr>
-
+<tr><td colspan="4" align="center" valign="middle"><p style="color:#708090;">ПОКУПКА / ПРОДАЖА / ОБМЕН</p></td></tr>
 <table border="1" width="100%" align="center" cellpadding="2" cellspacing="2">
 <tr><td width="28%" align="center" valign="middle">PAU</td><td width="24%" align="center" valign="middle">USD</td>
 <td width="24%" align="center" valign="middle">BTC</td><td width="24%" align="center" valign="middle">RUR</td></tr>
@@ -20,6 +19,6 @@ align="center" valign="middle"><p style="color:white">PAU tina</p></td><td align
 <td align="center" valign="middle">132.000</td></tr>
 </table>
 
-<tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
+<table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 
 <?php require_once("footer.php");?>
