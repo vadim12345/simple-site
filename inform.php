@@ -10,10 +10,10 @@
 <a href="http://pautinka.mobi">http://pautinka.mobi</a>
 <p>Разошлите её другим людям и как
 только они зарегистрируются на
-pautinka.mobi</p>
+pautinka.mobi
 Вам будут зачислен 1 ГОЛОС.
 Чем больше людей Вы пригласите, 
-тем больше ГОЛОСОВ получите!
+тем больше ГОЛОСОВ получите!</p>
 <p>3 ГОЛОСА = 1 ПАУТИНКA</p></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <?php require_once("footer.php");?>
