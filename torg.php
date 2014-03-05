@@ -1,8 +1,9 @@
 <?php $title=" ТОРГОВАЯ ПЛОЩАДКА ";require_once("header.php");?>
 <?php $img="x2.jpg";require_once("body.php");?>
-
+<table>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
-<tr><td colspan="4" align="center" valign="middle"><p style="color:#708090;">ПОКУПКА / ПРОДАЖА / ОБМЕН</p></td></tr>
+<tr><td colspan="4" align="center" valign="middle"><p style="color:#708090;">ПОКУПКА&nbsp/&nbspОБМЕН&nbsp/&nbspПРОДАЖА
+</p></td></tr></table>
 <table border="1" width="100%" align="center" cellpadding="2" cellspacing="2">
 <tr><td width="28%" align="center" valign="middle">PAU</td><td width="24%" align="center" valign="middle">USD</td>
 <td width="24%" align="center" valign="middle">BTC</td><td width="24%" align="center" valign="middle">RUR</td></tr>
