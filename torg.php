@@ -2,7 +2,7 @@
 <?php $img="x2.jpg";require_once("body.php");?>
 <table>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
-<tr><td colspan="4" align="center" valign="middle"><p style="color:#708090;">ОБМЕН&nbsp|&nbspПОКУПКА&nbsp/&nbspПРОДАЖА</p>
+<tr><td colspan="4" align="center" valign="middle"><p style="color:#708090;">ОБМЕН&nbsp/&nbspПОКУПКА&nbsp/&nbspПРОДАЖА</p>
 </td></tr></table>
 <table border="1" width="100%" align="center" cellpadding="2" cellspacing="2">
 <tr><td width="28%" align="center" valign="middle">PAU</td><td width="24%" align="center" valign="middle">USD</td>
