@@ -3,7 +3,7 @@
 
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 
-<table border="1" width="100%" align="center" valign="middle" cellpadding="2" cellspacing="2">
+<table border="1" width="100%" align="center" cellpadding="2" cellspacing="2">
 <tr><td width="28%" align="center" valign="middle">PAU</td><td width="24%" align="center" valign="middle">USD</td>
 <td width="24%" align="center" valign="middle">BTC</td><td width="24%" align="center" valign="middle">RUR</td></tr>
 <tr><td style="background-color:#DC143C"
