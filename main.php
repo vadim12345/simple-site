@@ -1,13 +1,13 @@
 <?php $title="ГЛАВНАЯ ПАУТИНКА";require_once("header.php");?>
 <?php $img="x2.jpg";require_once("body.php");?>
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
-<table><tr><td colspan="4" align="center" valign="middle"><?php echo "E-mail:<strong>".$_POST["e-mail"]."</strong><br/>";
+<table><tr><td colspan="4" align="center" valign="middle"><?php echo "E-mail:<strong>".$_POST["e-mail"]."</strong>";
 echo "Password: ".$_POST["password"];?></td</tr></table>
 
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 
 <table border="1" width="100%" cellpadding="2" cellspacing="2">
-<tr><td style="border:0;" rowspan="2" colspan="2" align="center" valign="middle"><a border="0" href="p1.jpeg">
+<tr><td style="border:0;" rowspan="2" colspan="2" align="center" valign="middle"><a style="border:0;" href="p1.jpeg">
 <img alt="pautinka" width="100%" height="100%" src="p1.jpeg"></a></td><td style="border:0; color:#2F4F4F;" colspan="2" 
 align="left" valign="middle">1. Zaitseva</td></tr>
 <tr><td style="border:0;" colspan="2" align="center" valign="middle">&nbsp</td></tr>
