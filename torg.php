@@ -22,12 +22,14 @@ align="center" valign="middle"><p style="color:white">PAU tina</p></td><td align
 
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 <table><tr><td colspan="4" align="center" valign="middle">
-<a href="http://cbrf.magazinfo.ru/rur/USD"><img src="http://cbrf.magazinfo.ru/informer8831/USD_RUR.png" border="1" alt="Курс Доллара США к Российскому рублю - курсы обмена валют ЦБ РФ" width="88" height="31" vspace="5"></a>
-</td></tr></table>
-<table><tr><td colspan="4" align="center" valign="middle">
 <p style="font-family:Verdana; font-size:12px"><a href="http://cbrf.magazinfo.ru/">Курс обмена валют (CHF/RUR):</a><br><a href="http://cbrf.magazinfo.ru/rur/CHF"><script>
 var cbrfmag= new Date();
 document.write('<img src="http://cbrf.magazinfo.ru/informer1/CHF_RUR.png?'+cbrfmag.getDate()+'" border="0" alt="График для прогноза курсов обмена валют (данные ЦБ РФ): Швейцарского франка к рублю" width="200" height="150" vspace="5">');</script><noscript><img src="http://cbrf.magazinfo.ru/informer1/CHF_RUR.png" border="0" alt="Курсы Швейцарского франка к рублю - курсы обмена валют ЦБ РФ" width="200" height="150" vspace="5"></noscript></a></p>
+</td></tr></table>
+<table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
+<table><tr><td colspan="4" align="center" valign="middle">
+<a href="http://cbrf.magazinfo.ru/rur/USD"><img src="http://cbrf.magazinfo.ru/informer8831/USD_RUR.png" border="1"
+alt="Курс Доллара США к Российскому рублю - курсы обмена валют ЦБ РФ" width="88" height="31" vspace="5"></a>
 </td></tr></table>
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 <?php require_once("footer.php");?>
