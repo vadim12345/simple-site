@@ -21,11 +21,13 @@ align="center" valign="middle"><p style="color:white">PAU tina</p></td><td align
 </table>
 
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
+<table><tr><td colspan="4" align="center" valign="middle">
 <p style="font-family:Verdana; font-size:12px"><a href="http://cbrf.magazinfo.ru/">Курс обмена валют (USD/RUR):</a><br>
 <a href="http://cbrf.magazinfo.ru/rur/USD"><script>var cbrfmag= new Date();
 document.write('<img src="http://cbrf.magazinfo.ru/informer1/USD_RUR.png?'+cbrfmag.getDate()+'" border="0" 
 alt="График для прогноза курсов обмена валют (данные ЦБ РФ): Доллара США к рублю" width="200" height="150"
 vspace="5">');</script><noscript><img src="http://cbrf.magazinfo.ru/informer1/USD_RUR.png" border="0" 
 alt="График курсов валют ЦБ РФ: Доллара США к рублю" width="200" height="150" vspace="5"></noscript></a></p>
-
+</td></tr></table>
+<table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 <?php require_once("footer.php");?>
