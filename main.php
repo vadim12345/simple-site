@@ -6,7 +6,7 @@ echo "Password: ".$_POST["password"];?></td</tr></table>
 
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 
-<table border="1" width="100%" height="150" cellpadding="2" cellspacing="2">
+<table border="1" width="100%" height="140" cellpadding="2" cellspacing="2">
 <tr><td height="80" style="border:0;" rowspan="2" colspan="2" align="center" valign="middle"><a style="border:0;" href="pe2.jpg">
 <img alt="pautinka" width="100%" height="100%" src="pe2.jpg"></a></td><td style="border:0; color:#2F4F4F;" colspan="2" 
 align="left" valign="middle">1. Zaitseva</td></tr>
