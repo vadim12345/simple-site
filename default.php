@@ -34,9 +34,9 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 </table></form></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
-<table colspan="4" border="0" width="100%" cellpadding="0" cellspacing="0"><tr><td colspan="4" align="center" valign="middle"><a style="color:#C0C0C0;" 
+<tr><td colspan="4" align="center" valign="middle"><a style="color:#C0C0C0;" 
 href="http://pautinka.mobi">Забыли&nbspпароль&nbsp?</a><br><a style="color:#C0C0C0;"
-href="http://worldlibrary.bugs3.com">Связаться&nbspс&nbspавтором&nbsp?</a></td></tr></table>
+href="http://worldlibrary.bugs3.com">&nbspСвязаться&nbspс&nbspавтором&nbsp?</a></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <?php require_once("footer.php");?>
