@@ -27,8 +27,8 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 
 <tr><td colspan="4" style="border:0; background-color:#FFFACD;" width="100%" align="center" valign="middle">
 <form action="http://pautinka.mobi/main.php" method="post">
-<table border="0" cellpadding="0" cellspacing="5">
-<tr><td align="right" valign="middle">&nbsp<br>E-mail:</td>
+<table border="0" cellpadding="0" cellspacing="5">&nbsp
+<tr><td align="right" valign="middle">E-mail:</td>
 <td><input type="text" size=16 name="e-mail"></td></tr>
 <tr><td align="right" valign="middle">Password:</td>
 <td><input type="password" size=16 name="password"></td></tr>
