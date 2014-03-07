@@ -7,7 +7,6 @@ href="http://pautinka.mobi">pautinka.mobi</a></td>
 <td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp</p></td>
 <td align="center" valign="middle"><a style="color:#DC143C;" href="http://pautinka.mobi/main.php">rus</a> | <a 
 style="color:#0000CD;" href="http://pautinka.mobi/torg.php">eng</a></td></tr>
-
 <tr><td colspan="4" align="center" valign="middle">
 <table border="0" width="100%" cellpadding="3" cellspacing="2">
 <tr><td style="border:0;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp</p></td>
@@ -24,7 +23,6 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 <tr><td style="border:0; background-color:gold;" align="center" valign="middle"><p style="color:white">PAU gold</p>
 </td></tr><tr><td align="center" valign="middle"><p>&nbsp</p></td></tr>
 </table></td></tr>
-
 <tr><td colspan="4" style="border:0; background-color:#FFFACD;" width="100%" align="center" valign="middle">
 <form action="http://pautinka.mobi/main.php" method="post">
 <table border="0" cellpadding="0" cellspacing="7">&nbsp
@@ -34,7 +32,8 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 <td><input type="password" size=16 name="password"></td></tr>
 <tr><td align="center" valign="middle">&nbsp</td><td><input type="submit" name="submit" value="ВХОД"><br>&nbsp</td></tr>
 </table></form></td></tr>
-
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
+<tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
+<tr><td colspan="4" align="center" valign="middle"><p style="color:#708090;">Забыли пароль ?<br>Связаться с создателем ?</p></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <?php require_once("footer.php");?>
