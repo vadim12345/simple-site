@@ -1,7 +1,13 @@
 <?php $title=" ИНФОРМАЦИЯ ";require_once("header.php");?>
 <?php $img="x2.jpg";require_once("body.php");?>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
-<tr><td colspan="4" align="center" valign="middle"><p>Чем больше друзей приглосите в паутинку, тем
+<tr><td colspan="4" align="center" valign="middle">
+<p>pautinka символизирует порядок и равновесие сил, однако основное значение символа — связывать и удерживать.</p>
+<p>PAU можно заработать пригласив множество друзей ,а также можно купить на торговой площадке.</p> 
+<p>Существует 4 вида PAU:<br><ul><li>PAU tina - первая, с чего всё начинается...</li>
+<li>PAU chok - отвечает за безопасность и сохранность...</li><li>PAU coco - кокон который производит PAU...</li>
+<li>PAU gold - основной продукт подкрепленный золотом...</li></ul><p>&nbsp</p>
+<p>Чем больше друзей приглосите в паутинку, тем
 больше голосов получаете и тем больше PAU у вас будет.</p></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 <h3>Как это работает?</h3>
