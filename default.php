@@ -34,8 +34,8 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 </table></form></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
-<tr><td colspan="4" align="center" valign="middle"><a style="color:#D3D3D3;" 
-href="http://pautinka.mobi">Забыли&nbspпароль&nbsp?</a><br><a style="color:#D3D3D3;"
+<tr><td colspan="4" align="center" valign="middle"><a style="color:#B0C4DE;" 
+href="http://pautinka.mobi">Забыли&nbspпароль&nbsp?</a><br><a style="color:#B0C4DE;"
 href="http://worldlibrary.bugs3.com">&nbspСвязаться&nbspс&nbspавтором&nbsp?</a></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
