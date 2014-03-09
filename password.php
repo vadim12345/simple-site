@@ -17,7 +17,7 @@
 
 <tr><td align="center" valign="middle">&nbsp</td></tr>
 <tr><td align="center" valign="middle">
-Не получилось восстановить пароль? Обратитесь в<a style="color:#9370D8;"
+Не получилось восстановить пароль?<br>Обратитесь в <a style="color:#9370D8;"
 href="http://pautinka.mobi/avtor.php">службу поддержки.</a></td></tr>
 <tr><td align="center" valign="middle">&nbsp</td></tr>
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"> 
