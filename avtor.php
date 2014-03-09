@@ -11,11 +11,10 @@
 <b>pugachev.vadim.v@gmail.com</b></td></tr>
 <tr><td align="center" valign="middle">
 <form action="http://pautinka.mobi/avtor.php" method="POST">
-<p>Имя</p><input size="20" maxlength="20" type ="text" name="name">
-<p>E-mail</p><input size="20" maxlenght="20" type="text" name ="email">
-<p><textarea name="text" cols="20" rival="40">Введите текст...</textarea></p>
+<p>Имя</p><input size="25" maxlength="20" type ="text" name="name">
+<p>E-mail</p><input size="25" maxlenght="20" type="text" name ="email">
+<p><textarea name="text" cols="20" rival="60">Введите текст...</textarea></p>
 <p><input type="submit" name="submit" value="Отправить"></p>
-<p><input type="img" src="z1.jpg" name="imgButton"></p>
 </form></td></tr>
 </table>
 </body>
