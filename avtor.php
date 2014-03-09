@@ -9,7 +9,7 @@
 <tr><td align="center" valign="middle">
 <a style="color:#0000CD;" href ="  ">
 <b>pugachev.vadim.v@gmail.com</b>
-<form action="http://pautinka.mobi/main.php"
+<form action="http://pautinka.mobi/avtor.php"
 method="POST"><p>Имя</p><input size="30" maxlength="15" type ="text" name="name">
 <p>Email</p><input size="30" maxlenght="15" type="text" name ="email">
 <p><texture name="text" cols="30" rival="60">Введите текст...</textarea>
