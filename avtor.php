@@ -12,8 +12,8 @@
 <tr><td align="center" valign="middle">
 <form action="http://pautinka.mobi/avtor.php" method="POST"><fieldset><legend>&nbspЗадать&nbspвопрос</legend> 
 
-<p>Имя</p><input size="25" maxlength="20" type ="text" name="name">
-<p>E-mail</p><input size="25" maxlenght="20" type="text" name ="email">
+<p>Имя</p><input size="24" maxlength="20" type ="text" name="name">
+<p>E-mail</p><input size="24" maxlenght="20" type="text" name ="email">
 <p><textarea name="text" cols="20" rows="6">Введите текст...</textarea></p>
 <p><input type="submit" name="submit" value="Отправить"></p>
 </fieldset></form></td></tr>
