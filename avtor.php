@@ -1,6 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01Transitional//EN"  "http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<head><title>АВТОР ПАУТИНКИ</title>
+<head><title>"АВТОР ПАУТИНКИ"</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 <body style="padding:0;	margin:0;">
