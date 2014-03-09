@@ -35,7 +35,7 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle"><a style="color:#9370D8;" 
-href="http://pautinka.mobi">Забыли&nbspпароль&nbsp?</a><br>&nbsp<br><a style="color:#9370D8;"
+href="http://pautinka.mobi/password.php">Забыли&nbspпароль&nbsp?</a><br>&nbsp<br><a style="color:#9370D8;"
 href="http://pautinka.mobi/avtor.php">&nbspСвязаться&nbspс&nbspавтором&nbsp!</a></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
