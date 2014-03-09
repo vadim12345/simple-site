@@ -10,7 +10,7 @@
 <tr><td  align="center" valign="middle">&nbsp</td></tr>
 
 <tr><td align="center" valign="middle">
-<form action="http://pautinka.mobi/avtor.php" method="POST"><fieldset><legend>&nbspЗадать&nbspвопрос</legend> 
+<form action="http://pautinka.mobi/avtor.php" method="POST"><fieldset><legend>&nbsp&nbspЗадать&nbspвопрос</legend> 
 <p>Имя</p><input size="24" maxlength="20" type ="text" name="name">
 <p>E-mail</p><input size="24" maxlenght="20" type="text" name ="email">
 <p><textarea name="text" cols="20" rows="6">Введите текст...</textarea></p>
