@@ -9,20 +9,12 @@
 <tr><td align="center" valign="middle">
 <a style="color:#0000CD;" href ="  ">
 <b>pugachev.vadim.v@gmail.com</b>
-<form action ="mail.php"
-method= "POST" >
-< p>Имя</ p > < input type ="text"
-name = "name" />
-< p>Email</ p > < input
-type = "text" name = "email" />
-< p>Сообщение</ p >< textarea
-name = "message" rows ="6"
-cols = "25" ></ textarea >< br />
-< input type = "submit"
-value = "Отправить" />< input
-type = "reset"
-value = "Очистить" />
-</ form >
+<form action="http://pautinka.mobi/main.php"
+method="POST"><p>Имя</p><input size="30" maxlength="15" type ="text" name="name">
+<p>Email</p><input size="30" maxlenght="15" type="text" name ="email">
+<p><texture name="text" cols="30" rival="60">Введите текст...</textarea>
+<p><input typey="submit" name="submit"value="Отправить"></p>
+</form>
 </td></tr>
 </table>
 </body>
