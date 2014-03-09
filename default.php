@@ -35,8 +35,8 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle"><a style="color:#9370D8;" 
-href="http://pautinka.mobi">Забыли&nbspпароль<b>?</b></a><br>&nbsp<br><a style="color:#9370D8;"
-href="http://worldlibrary.bugs3.com">Связаться&nbspс&nbspавтором<b>!</b></a></td></tr>
+href="http://pautinka.mobi">Забыли&nbspпароль&nbsp?</a><br>&nbsp<br><a style="color:#9370D8;"
+href="http://worldlibrary.bugs3.com">Связаться&nbspс&nbspавтором&nbsp!</a></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <?php require_once("footer.php");?>
