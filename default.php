@@ -37,7 +37,31 @@ value="1" checked="checked"><label for="rem$PAGE_ID$"></label></span></div><br>&
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle"><a style="color:#9370D8;" 
-href="http://pautinka.mobi/password.php">Забыли&nbspпароль&nbsp?</a><br>&nbsp<br><a style="color:#9370D8;"
+href="http://pautinka.mobi/password.php">Забыли&nbspпароль&nbsp?</a><br>&nbsp<br>
+<center>
+<div id="parent_popup">
+  <div id="popupup">
+    <div id="close" style="cursor: pointer;" onclick="document.getElementById('parent_popup').style.display='none';"></div>
+    <p style='text-align: center;' class='contact-title'>СООБЩЕНИЕ АДМИНИСТРАТОРУ</p>
+<form action="send.php" method="post">
+<table align="center" style="margin-top: -10px;" border="0">
+<tbody><tr>
+<td class="lable"><b>*Ваше имя:</b><br />
+<input name="name" size="45" maxlength="15" class="input" type="text"></td></tr>
+<tr><td></td></tr>
+<tr><td class="lable"><b>*Ваш e-mail:</b><br />
+<input name="email" size="45" maxlength="30" class="input" type="text"></td></tr>
+<tr><td></td></tr>
+<tr><td class="lable"><b>*Сообщение:</b><br />
+<textarea name="text_message" cols="43" rows="11" class="input"></textarea></td></tr>
+<tr><td> </td></tr>
+<tr><td align="center"><input name="mail_submit" type="submit" value="Отправить сообщение"></td></tr>
+</tbody></table></form></p>
+  </div>
+</div>
+<a href="#" onclick="document.getElementById('parent_popup').style.display='block';">
+&nbspСвязаться&nbspс&nbspавтором&nbsp!</a></center><br/>
+<a style="color:#9370D8;"
 href="http://pautinka.mobi/avtor.php">&nbspСвязаться&nbspс&nbspавтором&nbsp!</a></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
