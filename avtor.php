@@ -7,7 +7,7 @@
 <table style="height:100%;" width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle">
 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
-<tr><td  align="center" valign="middle">&nbsp</td></tr>
+<tr><td  align="center" valign="middle">&nbsp;</td></tr>
 
 <tr><td align="center" valign="middle">
 <form action="http://pautinka.mobi/avtor.php" method="POST"><fieldset><legend>&nbsp&nbspЗадать&nbspвопрос</legend> 
@@ -17,24 +17,24 @@
 <p><input type="submit" name="submit" value="Отправить"></p>
 </fieldset></form></td></tr>
 
-<center>
+<tr><td align="center" valign="middle"><center>
  <form action="send.php" method="post">
  <table class="table2">
 <tbody>
 <tr>
-<th colspan="2" class="zagalovok">Написать сообщение:</th></tr>
+<th colspan="2" class="zagalovok">Служба поддержки&nbsp;!</th></tr>
 <tr><th colspan="2"></th></tr>
 <tr><td colspan="2" class="lable">*Ваше имя:</td></tr>
 <tr><td colspan="2" class="input">
-<input name="name" size="30" maxlength="30" class="input" type="text">
+<input name="name" size="24" maxlength="20" class="input" type="text">
 </td></tr>
 <tr><td colspan="2" class="lable">*Ваш e-mail:</td></tr>
 <tr><td colspan="2" class="input">
-<input name="email" size="30" maxlength="30" class="input" type="text">
+<input name="email" size="24" maxlength="20" class="input" type="text">
 </td></tr>
 <tr><td colspan="2" class="lable">*Сообщение:</td></tr>
 <tr><td colspan="2" class="input">
-<textarea name="text_message" cols="29" rows="4" class="input"></textarea>
+<textarea name="text_message" cols="20" rows="6" class="input"></textarea>
 </td></tr>
 <tr><th colspan="2"></th></tr>
 <tr><td align="right"  class="lable" valign="bootom">*Введите цифры:</td>
@@ -53,9 +53,9 @@ $captcha = $num[1].$num[2].$num[3].$num[4];
 <input name="pr" style="margin-bottom:11px;" type="text" size="6" maxlength="4"></td></tr>
 <tr><th colspan="2"></th></tr>
 <tr><td colspan="2" align="center"><input name="mail_submit" type="submit" value="Отправить сообщение"></td></tr>
-</tbody></table></form></center>
+</tbody></table></form></center></td></tr>
  
-<tr><td align="center" valign="middle">&nbsp</td></tr>
+<tr><td align="center" valign="middle">&nbsp;</td></tr>
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"> 
 &copy; 2014 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
 </table>
