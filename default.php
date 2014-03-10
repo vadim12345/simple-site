@@ -25,14 +25,12 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 </table></td></tr>
 <tr><td colspan="4" style="border:0; background-color:#FFFACD;" width="100%" align="center" valign="middle">&nbsp 
 <form action="http://pautinka.mobi/main.php" method="post">
-<table border="0" cellpadding="0" cellspacing="7">
-<tr><td align="right" valign="middle">E-mail:</td>
-<td><input type="text" size=16 name="e-mail"></td></tr>
-<tr><td align="right" valign="middle">Password:</td>
+<table border="0" cellpadding="0" cellspacing="7"><tr><td align="right" valign="middle">E-mail:</td>
+<td><input type="text" size=16 name="e-mail"></td></tr><tr><td align="right" valign="middle">Password:</td>
 <td><input type="password" size=16 name="password"></td></tr>
 <tr><td align="center" valign="middle">&nbsp</td><td><input type="submit" name="submit" value="ВХОД">&nbsp&nbsp
 <span class="right"><input class="south" title="Сохранить пароль при входе"id="rem$PAGE_ID$" type="checkbox" name="rem"
-value="1" checked="checked"><label for="rem$PAGE_ID$"></label></span></div><br>&nbsp</td></tr>
+value="1" checked="checked"><label for="rem$PAGE_ID$"></label></span><br>&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">
