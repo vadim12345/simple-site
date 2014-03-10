@@ -16,12 +16,7 @@
 <p><textarea name="text" cols="20" rows="6">Введите текст...</textarea></p>
 <p><input type="submit" name="submit" value="Отправить"></p>
 </fieldset></form></td></tr>
- <tr><td class='warning_table' width='220' align='center' valign='middle'>
- <img align='center' src='images/warning.png'>
- <div align='center' class='warning_font_big'>Вы не правильно заполнили форму!</div>
- <div align='center' class='warning_font' align='left'>Попробуйте ещё раз!</div>
- <p align='center'><a href="http://pautinka.mobi/password.php" class='all_links'>Вернуться назад</a></div></p>
- </td></tr>
+ 
 <tr><td align="center" valign="middle">&nbsp</td></tr>
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"> 
 &copy; 2014 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
