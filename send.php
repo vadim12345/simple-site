@@ -55,11 +55,11 @@ echo "<link rel='stylesheet' type='text/css' href='style.css'/>
   if ($captcha == $pr)
   {
 /* Формируем сообщение */
-$address = "ваша@почта.ru";  /* Меняем на свою почту */
+$address = "pugachev.vadim.v@gmail.com";  /* Меняем на свою почту */
 $sub = "Сообщение с сайта";
 $mes = "Автор: $name \nE-mail: $email \n\nТекст сообщения:\n$text_message";
 /* Отправка сообщения */
-$verify = mail ($address,$sub,$mes,"Content-type:text/plain; charset = Windows-1251\r\nFrom:$email");
+$verify = mail ($address,$sub,$mes,"Content-type:text/html; charset = UTF-8\r\nFrom:$email");
       if ($verify == 'true')
      {
 echo "
