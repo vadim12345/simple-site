@@ -26,15 +26,15 @@
 <tr><th colspan="2"></th></tr>
 <tr><td colspan="2" class="lable">*Ваше имя:</td></tr>
 <tr><td colspan="2" class="input">
-<input name="name" size="24" maxlength="20" class="input" type="text">
+<input name="name" size="30" maxlength="30" class="input" type="text">
 </td></tr>
 <tr><td colspan="2" class="lable">*Ваш e-mail:</td></tr>
 <tr><td colspan="2" class="input">
-<input name="email" size="24" maxlength="20" class="input" type="text">
+<input name="email" size="30" maxlength="30" class="input" type="text">
 </td></tr>
 <tr><td colspan="2" class="lable">*Сообщение:</td></tr>
 <tr><td colspan="2" class="input">
-<textarea name="text_message" cols="20" rows="6" class="input"></textarea>
+<textarea name="text_message" cols="29" rows="4" class="input"></textarea>
 </td></tr>
 <tr><th colspan="2"></th></tr>
 <tr><td align="right"  class="lable" valign="bootom">*Введите цифры:</td>
