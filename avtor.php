@@ -19,10 +19,8 @@
  <tr><td colspan="2" class="input"><input name="email" size="24" maxlength="24" class="input" type="text"></td></tr>
  <tr><td colspan="2" class="lable">*Сообщение:</td></tr>
  <tr><td colspan="2" class="input"><textarea name="text_message" cols="20" rows="7" class="input"></textarea></td></tr>
- <tr><th colspan="2" align="center"></th></tr><tr><td align="center"  class="lable" valign="bootom">*Введите цифры:
- 
- </td><td>&nbsp;</td></tr>
- <tr><td align="center" valign="center"><?php
+ <tr><td align="center"  class="lable" valign="bootom">*Введите цифры: </td></tr>
+ <tr><td align="center" valign="top"><?php
 $i=1;
 do
 {
@@ -33,8 +31,8 @@ $i++;
 while ($i<5);
 $captcha = $num[1].$num[2].$num[3].$num[4];
 ?>
-<input name="captcha" type="hidden" value="<?php echo $captcha ;?>">
-<input name="pr" style="margin-bottom:11px;" type="text" size="4" maxlength="8"></td></tr>
+<input name="captcha" type="hidden" value="<?php echo $captcha ;?>"> 
+<input name="pr" style="margin-bottom:11px;" type="text" size="7" maxlength="4"></td></tr>
 <tr><th colspan="2"></th></tr>
 <tr><td colspan="2" align="center"><input name="mail_submit" type="submit" value="Отправить сообщение"></td></tr>
 </tbody></table></form></center></td></tr>
