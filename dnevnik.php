@@ -1,5 +1,5 @@
 <?php $title=" ДНЕВНИК ";require_once("header.php");?>
-<?php $img="x2.jpg";require_once("body.php");?>
+<?php $img="imeg/x2.jpg";require_once("body.php");?>
 
 <tr><td colspan="2" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="2" align="center" valign="middle">
