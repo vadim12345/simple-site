@@ -34,7 +34,7 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 <a style="color:#9370D8;" href="http://pautinka.mobi/password.php">Забыли&nbsp;пароль&nbsp;?</a><br>&nbsp;<br>
-<a style="color:#9370D8;" href="http://pautinka.mobi/avtor.php">&nbsp;Служба&nbsp;поддержки&nbsp;!</a></td></tr>
+<a style="color:#9370D8;" href="http://pautinka.mobi/avtor.php">Служба&nbsp;поддержки&nbsp;!</a></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <?php require_once("footer.php");?>
