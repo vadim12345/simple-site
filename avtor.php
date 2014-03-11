@@ -9,9 +9,9 @@
 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
 <tr><td  align="center" valign="middle">&nbsp;</td></tr>
  <tr><td align="center" valign="middle"><center>
- <form action="send.php" method="post"><fieldset><legend>&nbsp&nbsp?</legend> 
+ <form action="send.php" method="post"><fieldset><legend>&nbsp&nbspЗадать вопрос</legend> 
  <table class="table2">
- <tbody><tr><th colspan="2" class="zagalovok">Служба поддержки&nbsp;!</th></tr>
+ <tbody><tr><th colspan="2" class="zagalovok">Служба поддержки&nbsp;!</th></tr><br>
  <tr><th colspan="2"></th></tr>
  <tr><td colspan="2" class="lable">*Ваше имя:</td></tr>
  <tr><td colspan="2" class="input"><input name="name" size="24" maxlength="24" class="input" type="text"></td></tr>
@@ -19,7 +19,8 @@
  <tr><td colspan="2" class="input"><input name="email" size="24" maxlength="24" class="input" type="text"></td></tr>
  <tr><td colspan="2" class="lable">*Сообщение:</td></tr>
  <tr><td colspan="2" class="input"><textarea name="text_message" cols="20" rows="7" class="input"></textarea></td></tr>
- <tr><th colspan="2" align="center"></th></tr><tr><td align="center"  class="lable" valign="bootom">*Введите цифры:</td><br>
+ <tr><th colspan="2" align="center"></th></tr><tr><td align="center"  class="lable" valign="bootom">*Введите цифры:
+ </td><br>
  <td align="right" valign="center"><?php
 $i=1;
 do
@@ -32,11 +33,12 @@ while ($i<5);
 $captcha = $num[1].$num[2].$num[3].$num[4];
 ?>
 <input name="captcha" type="hidden" value="<?php echo $captcha ;?>">
-<input name="pr" style="margin-bottom:11px;" type="text" size="4" maxlength="4"></td></tr>
+<input name="pr" style="margin-bottom:11px;" type="text" size="4" maxlength="8"></td></tr>
 <tr><th colspan="2"></th></tr>
 <tr><td colspan="2" align="center"><input name="mail_submit" type="submit" value="Отправить сообщение"></td></tr>
 </tbody></table></form></center></td></tr>
 
+<tr><td align="center" valign="middle">&nbsp;</td></tr>
 <tr><td align="center" valign="middle">&nbsp;</td></tr>
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"> 
 &copy; 2014 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
