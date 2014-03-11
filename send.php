@@ -26,7 +26,7 @@ echo "<link rel='stylesheet' type='text/css' href='style.css'/>
  <img align='center' src='images/warning.png'>
  <div align='center' class='warning_font_big'>Имя должно состоять только<br /> из русских букв!</div>
  <div align='center' class='warning_font' align='left'>Попробуйте ещё раз!</div>
- <p align='center'><a href='index.html' class='all_links'>Вернуться назад</a></div></p>
+ <p align='center'><a href='http://pautinka.mobi/avtor.php' class='all_links'>Вернуться назад</a></div></p>
  </td>
  </tr>
  </table>";
@@ -44,7 +44,7 @@ echo "<link rel='stylesheet' type='text/css' href='style.css'/>
  <img align='center' src='images/warning.png'>
  <div align='center' class='warning_font_big'>Не правильный формат E-mail!</div>
  <div align='center' class='warning_font' align='left'>Попробуйте ещё раз!</div>
- <p align='center'><a href='index.html' class='all_links'>Вернуться назад</a></div></p>
+ <p align='center'><a href='http://pautinka.mobi/avtor.php' class='all_links'>Вернуться назад</a></div></p>
  </td>
  </tr>
  </table>";
@@ -71,7 +71,7 @@ echo "
  <img align='center' src='images/Galochka.png'>
  <div align='center' class='warning_font_big'>Поздравляем!</div>
  <div align='center' class='warning_font' align='left'>Ваше письмо доставлено администратору.<br />В ближайшее время с Вами обязательно свяжуться!</div>
- <p align='center'><a href='index.html' class='all_links'>Вернуться назад</a></div></p>
+ <p align='center'><a href='http://pautinka.mobi/avtor.php' class='all_links'>Вернуться назад</a></div></p>
  </td>
  </tr>
  </table>";
@@ -86,7 +86,7 @@ echo "
  <img align='center' src='images/warning.png'>
  <div align='center' class='warning_font_big'>ОШИБКА!!!</div>
  <div align='center' class='warning_font' align='left'>Ваше письмо не доставлено. Повторите отправку немного позже!</div>
- <p align='center'><a href='index.html' class='all_links'>Вернуться назад</a></div></p>
+ <p align='center'><a href='http://pautinka.mobi/avtor.php' class='all_links'>Вернуться назад</a></div></p>
  </td>
  </tr>
  </table>";
@@ -102,7 +102,7 @@ echo "
  <img align='center' src='images/warning.png'>
  <div align='center' class='warning_font_big'>Вы не правильно ввели цифры!</div>
  <div align='center' class='warning_font' align='left'>Попробуйте ещё раз!</div>
- <p align='center'><a href='index.html' class='all_links'>Вернуться назад</a></div></p>
+ <p align='center'><a href='http://pautinka.mobi/avtor.php' class='all_links'>Вернуться назад</a></div></p>
  </td>
  </tr>
  </table>";
@@ -118,7 +118,7 @@ echo "
  <img align='center' src='images/warning.png'>
  <div align='center' class='warning_font_big'>Вы заполнили не все поля!</div>
  <div align='center' class='warning_font' align='left'>Попробуйте ещё раз!</div>
- <p align='center'><a href='index.html' class='all_links'>Вернуться назад</a></p>
+ <p align='center'><a href='http://pautinka.mobi/avtor.php' class='all_links'>Вернуться назад</a></p>
  </td>
  </tr>
  </table>";
