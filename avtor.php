@@ -54,7 +54,7 @@ $captcha = $num[1].$num[2].$num[3].$num[4];
 <tr><th colspan="2"></th></tr>
 <tr><td colspan="2" align="center"><input name="mail_submit" type="submit" value="Отправить сообщение"></td></tr>
 </tbody></table></form></center></td></tr>
- 
+
 <tr><td align="center" valign="middle">&nbsp;</td></tr>
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"> 
 &copy; 2014 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
