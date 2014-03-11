@@ -9,9 +9,9 @@
 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
 <tr><td  align="center" valign="middle">&nbsp;</td></tr>
  <tr><td align="center" valign="middle"><center>
- <form action="send.php" method="post"><fieldset><legend>&nbsp&nbspЗадать вопрос</legend> 
+ <form action="send.php" method="post"><fieldset><legend>&nbsp&nbspСлужба&nbsp;поддержки!</legend> 
  <table class="table2">
- <tbody><tr><th colspan="2" class="zagalovok">Служба поддержки&nbsp;!</th></tr><br>
+ <tbody><tr><th colspan="2" class="zagalovok">&nbsp;</th></tr><br>
  <tr><th colspan="2"></th></tr>
  <tr><td colspan="2" class="lable">*Ваше имя:</td></tr>
  <tr><td colspan="2" class="input"><input name="name" size="24" maxlength="24" class="input" type="text"></td></tr>
