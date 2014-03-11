@@ -1,5 +1,5 @@
 <?php $title=" ИНФОРМАЦИЯ ";require_once("header.php");?>
-<?php $img="x2.jpg";require_once("body.php");?>
+<?php $img="imeg/x2.jpg";require_once("body.php");?>
 <tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 <p>pautinka символизирует порядок и равновесие сил, однако основное значение символа — связывать и удерживать.</p>
