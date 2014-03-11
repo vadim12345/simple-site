@@ -13,7 +13,7 @@ style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td></tr>
 <td style="border:0;" width="28%" align="center" valign="middle"><p>&nbsp;</p></td>
 <td style="border:0;" rowspan="6" width="5%" align="center" valign="middle"><p>&nbsp;</p></td>
 <td style="border:0;" rowspan="6" width="60%" align="center" valign="middle"><img alt="pautinka" width="100%"
-src="pauk.png"></td></tr> 
+src="imeg/pauk.png"></td></tr> 
 <tr><td style="border:0; background-color:#DC143C;" align="center" valign="middle">
 <p style="color:white">PAU tina</p></td></tr>
 <tr><td style="border:0; background-color:#6A5ACD;" align="center"
