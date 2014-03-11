@@ -1,5 +1,5 @@
 <?php $title="ГЛАВНАЯ ПАУТИНКА";require_once("header.php");?>
-<?php $img="x2.jpg";require_once("body.php");?>
+<?php $img="imeg/x2.jpg";require_once("body.php");?>
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 <table><tr><td colspan="4" align="center" valign="middle"><?php echo "E-mail:<strong>".$_POST["e-mail"]."</strong><br/>";
 echo "Password: ".$_POST["password"];?></td</tr></table>
