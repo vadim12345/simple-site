@@ -9,7 +9,7 @@
 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
 <tr><td  align="center" valign="middle">&nbsp;</td></tr>
  <tr><td align="center" valign="middle"><center>
- <form action="send.php" method="post"><fieldset><legend>&nbsp&nbspСлужба&nbsp;поддержки!</legend> 
+ <form action="send.php" method="post"><fieldset><legend>&nbsp&nbspСлужба&nbsp;поддержки&nbsp;!</legend> 
  <table class="table2">
  <tbody><tr><th colspan="2" class="zagalovok">&nbsp;</th></tr><br>
  <tr><th colspan="2"></th></tr>
@@ -20,8 +20,9 @@
  <tr><td colspan="2" class="lable">*Сообщение:</td></tr>
  <tr><td colspan="2" class="input"><textarea name="text_message" cols="20" rows="7" class="input"></textarea></td></tr>
  <tr><th colspan="2" align="center"></th></tr><tr><td align="center"  class="lable" valign="bootom">*Введите цифры:
- </td><br>
- <td align="right" valign="center"><?php
+ 
+ </td><td>&nbsp;</td></tr>
+ <tr><td align="center" valign="center"><?php
 $i=1;
 do
 {
