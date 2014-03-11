@@ -28,14 +28,13 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 <table border="0" cellpadding="0" cellspacing="7"><tr><td align="right" valign="middle">E-mail:</td>
 <td><input type="text" size=16 name="e-mail"></td></tr><tr><td align="right" valign="middle">Password:</td>
 <td><input type="password" size=16 name="password"></td></tr>
-<tr><td align="center" valign="middle">&nbsp;</td><td><input type="submit" name="submit" value="ВХОД">&nbsp;&nbsp;&nbsp;&nbsp;
-<span class="right"><input class="south" title="Сохранить пароль при входе"id="rem$PAGE_ID$" type="checkbox" name="rem"
-value="1" checked="checked"><label for="rem$PAGE_ID$"></label></span><br>&nbsp;</td></tr></table>
+<tr><td align="center" valign="middle">&nbsp;</td><td><input type="submit" name="submit" value="ВХОД">
+<br>&nbsp;</table></form></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 <a style="color:#9370D8;" href="http://pautinka.mobi/password.php">Забыли&nbsp;пароль&nbsp;?</a><br>&nbsp;<br>
-<a style="color:#9370D8;" href="http://pautinka.mobi/avtor.php">&nbsp;Связаться&nbsp;с&nbsp;автором&nbsp;!</a></td></tr>
+<a style="color:#9370D8;" href="http://pautinka.mobi/avtor.php">&nbsp;Служба&nbsp;поддержки&nbsp;!</a></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <?php require_once("footer.php");?>
