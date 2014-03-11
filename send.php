@@ -4,7 +4,8 @@
     Если форма передала пустые значения мы их удаляем */
 if (isset($_POST['name'])) {$name = $_POST['name']; if ($name == '') {unset($name);}}
 if (isset($_POST['email'])) {$email = $_POST['email']; if ($email == '') {unset($email);}}
-if (isset($_POST['text_message'])) {$text_message = $_POST['text_message']; if ($text_message == '') {unset($text_message);}}
+if (isset($_POST['text_message'])) {$text_message = $_POST['text_message']; if ($text_message == '')
+{unset($text_message);}}
 if (isset($_POST['pr'])){$pr = $_POST['pr']; if ($pr == '') {unset($pr);}}
 if (isset($_POST['captcha'])){$captcha = $_POST['captcha'];}
 /* Проверяем заполнены ли все поля */
