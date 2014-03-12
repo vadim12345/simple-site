@@ -11,7 +11,8 @@
  <tr><td align="center" valign="middle"><center>
  <form action="send.php" method="post"><fieldset><legend>&nbsp&nbspСлужба поддержки&nbsp;!</legend> 
  <table class="table2">
- <tbody><tr><th colspan="2" class="zagalovok">&nbsp;</th></tr><br>
+ <tbody><tr><th colspan="2" class="zagalovok"><a style="border:0;" href="images/an.png"><img alt="pautinka"  
+src="images/an.png"></a></th></tr><br>
  <tr><th colspan="2"></th></tr>
  <tr><td colspan="2" class="lable">*Ваше имя:</td></tr>
  <tr><td colspan="2" class="input"><input name="name" size="24" maxlength="24" class="input" type="text"></td></tr>
