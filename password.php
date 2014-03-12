@@ -10,14 +10,17 @@
 <tr><td  align="center" valign="middle">&nbsp</td></tr>
 
 <tr><td align="center" valign="middle">
-<form action="http://pautinka.mobi/password.php" method="POST"><fieldset><legend>&nbsp&nbspВосстановить&nbspпароль</legend> 
+<form action="http://pautinka.mobi/password.php" method="POST"><fieldset><legend>&nbsp&nbspВосстановить пароль&nbsp;!</legend> 
+
+<tr><th class="zagalovok"><a style="border:0;" href="images/an.png"><img alt="pautinka"  
+src="images/an.png"></a></th></tr>
 <p> Введите свой адрес эл. почты.</p><input size="24" maxlength="20" type ="text" name="E-mail...">
 <p><input type="submit" name="submit" value="Отправить"></p>
 </fieldset></form></td></tr>
 
 <tr><td align="center" valign="middle">&nbsp</td></tr>
 <tr><td align="center" valign="middle">
-<p>Не получилось восстановить пароль?</p><p>Обратитесь&nbsp&nbspв <a style="color:#9370D8;"
+<p>Не получилось восстановить пароль&nbsp?</p><p>Обратитесь&nbsp&nbspв <a style="color:#9370D8;"
 href="http://pautinka.mobi/avtor.php">службу&nbspподдержки.</a></p></td></tr>
 <tr><td align="center" valign="middle">&nbsp</td></tr>
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"> 
