@@ -10,7 +10,7 @@
 <tr><td  align="center" valign="middle">&nbsp</td></tr>
 
 <tr><td align="center" valign="middle">
-<form action="http://pautinka.mobi/password.php" method="POST"><fieldset><legend>&nbsp&nbspВосстановить&nbsp;пароль&nbsp;!</legend> 
+<form action="http://pautinka.mobi/password.php" method="POST"><fieldset><legend>&nbsp&nbspВосстановить пароль&nbsp;!</legend> 
 
 <p align="center" valign="middle"><a style="border:0;" href="images/an.png"><img alt="pautinka"  
 src="images/an.png"></a></p>
