@@ -10,9 +10,9 @@ echo "Password: ".$_POST["password"];?></td</tr></table>
 <tr><td height="80" style="border:0;" rowspan="2" colspan="2" align="center" valign="middle">
 <a style="border:0;" href="imeg/pe2.jpg">
 <img alt="pautinka" width="100%" height="100%" src="imeg/pe2.jpg"></a></td><td style="border:0; color:#2F4F4F;"colspan="2" 
-align="left" valign="middle">1. Zaitseva<a style="border:0;" href="images/an.png"><img alt="pautinka" width="100%" height="100%" 
-src="images/an.png"></a></td></tr>
-<tr><td style="border:0;" colspan="2" align="center" valign="middle">&nbsp</td></tr>
+align="left" valign="middle">1. Zaitseva</td></tr>
+<tr><td style="border:0;" colspan="2" align="center" valign="middle"><a style="border:0;" href="images/an.png">
+<img alt="pautinka" width="100%" height="100%" src="images/an.png"></a></td></tr>
 <tr><td style="background-color:#DC143C;" align="center" valign="middle" width="25%">
 <p style="color:white;">PAU tina</p></td>
 <td style="background-color:#6A5ACD;" align="center" valign="middle" width="25%"><p style="color:white;">PAU chok</p></td>
