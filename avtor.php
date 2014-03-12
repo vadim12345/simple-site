@@ -9,7 +9,7 @@
 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
 <tr><td  align="center" valign="middle">&nbsp;</td></tr>
  <tr><td align="center" valign="middle"><center>
- <form action="send.php" method="post"><fieldset><legend>&nbsp&nbspСлужба поддержки&nbsp;!</legend> 
+ <form action="send.php" method="post"><fieldset><legend>&nbsp&nbspСлужба  поддержки&nbsp;!</legend> 
  <table class="table2">
  <tbody><tr><th colspan="2" class="zagalovok"><a style="border:0;" href="images/an.png"><img alt="pautinka"  
 src="images/an.png"></a></th></tr><br>
