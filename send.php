@@ -56,7 +56,7 @@ echo "<link rel='stylesheet' type='text/css' href='style.css'/>
   if ($captcha == $pr)
   {
 /* Формируем сообщение */
-$address = "pugachev.vadim.v@gmail.com";  /* Меняем на свою почту */
+$address = "pautinka.mobi@yandex.ru";  /* Меняем на свою почту */
 $sub = "Сообщение с сайта";
 $mes = "Автор: $name \nE-mail: $email \n\nТекст сообщения:\n$text_message";
 /* Отправка сообщения */
