@@ -33,7 +33,7 @@ while ($i<5);
 $captcha = $num[1].$num[2].$num[3].$num[4];
 ?>
 <input name="captcha" type="hidden" value="<?php echo $captcha ;?>"><br/> 
-<input name="pr" style="margin-bottom:11px;" type="text" size="9" maxlength="4"></td></tr>
+<input name="pr" style="margin-bottom:11px;" type="text" size="24" maxlength="4"></td></tr>
 <tr><th colspan="2"></th></tr>
 <tr><td colspan="2" align="center"><input name="mail_submit" type="submit" value="Отправить сообщение"></td></tr>
 </tbody></table></fieldset></form></center></td></tr>
