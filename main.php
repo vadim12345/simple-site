@@ -6,11 +6,11 @@ echo "Password: ".$_POST["password"];?></td</tr></table>
 
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 <table><tr><td colspan="4" align="center" valign="middle"><h4>ДОБРО ПОЖАЛОВАТЬ В PAU !</h4></td></tr>
-<tr><td><p align="center">Используйте PAU для того, что бы расплачиваться и получать оплату просто и доступно.<p></td></tr>
+<tr><td><p align="center">Используйте PAU для того,<br/>что бы расплачиваться и получать оплату просто и доступно.<p></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 <p><fieldset><legend>&nbsp;&nbsp;PAU purse&nbsp;</legend><table class="table2"><tr><td align="center">
 <a style="color:#0000CD;" href="http://www.pautinka.mobi/new.php">
-СОЗДАТЬ СВОЙ КОШЕЛЁК</a></td></tr></table></fieldset></a></p>
+создать свой кошелёк</a></td></tr></table></fieldset></a></p>
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 <table border="1" width="100%" height="140" cellpadding="2" cellspacing="2">
 <tr><td height="80" style="border:0;" rowspan="2" colspan="2" align="center" valign="middle">
