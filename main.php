@@ -7,13 +7,13 @@ echo "Password: ".$_POST["password"];?></td</tr></table>
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 <table><tr><td colspan="4" align="center" valign="middle"><h4>ДОБРО&nbsp;ПОЖАЛОВАТЬ&nbsp;!</h4></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
-<tr><td><p align="center">Используйте&nbsp;PAU&nbsp;для&nbsp;того,&nbsp;чтобы<br/>расплачиваться&nbsp;и&nbsp;получать&nbsp;оплату<br/>просто&nbsp;доступно&nbsp;и&nbsp;надёжно.</p></td></tr>
+<tr><td><p align="center">Используйте&nbsp;PAU&nbsp;для&nbsp;того,&nbsp;чтобы<br/>расплачиваться&nbsp;и&nbsp;получать&nbsp;оплату<br/>просто,&nbsp;доступно&nbsp;и&nbsp;надёжно.</p></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 
 <tr><td colspan="4" align="center" valign="middle">
 <p><fieldset><legend>&nbsp;&nbsp;PAU purse&nbsp;</legend><table class="table2"><tr><td align="center">
 <a style="color:#0000CD;" href="http://www.pautinka.mobi/new.php">
-создать&nbsp;&nbsp;ультра&nbsp;&nbsp;кошелёк</a></td></tr></table></fieldset></p>
+создать кошелёк</a></td></tr></table></fieldset></p>
 <tr><td colspan="4" align="center" valign="middle"><i>Плети&nbsp;свою&nbsp;сеть&nbsp;!</i></td></tr>
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 <table border="1" width="100%" height="140" cellpadding="2" cellspacing="2">
