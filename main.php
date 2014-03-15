@@ -7,8 +7,7 @@ echo "Password: ".$_POST["password"];?></td</tr></table>
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 <table><tr><td colspan="4" align="center" valign="middle"><h4>ДОБРО&nbsp;ПОЖАЛОВАТЬ&nbsp;!</h4></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
-<tr><td><p align="center">Используйте&nbsp;PAU&nbsp;для&nbsp;того,&nbsp;чтобы<br/>расплачиваться&nbsp;и&nbsp;
-получать&nbsp;оплату<br/>просто&nbsp;доступно&nbsp;и&nbsp;надёжно.</p></td></tr>
+<tr><td><p align="center">Используйте&nbsp;PAU&nbsp;для&nbsp;того,&nbsp;чтобы<br/>расплачиваться&nbsp;и&nbsp;получать&nbsp;оплату<br/>просто&nbsp;доступно&nbsp;и&nbsp;надёжно.</p></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 
 <tr><td colspan="4" align="center" valign="middle">
