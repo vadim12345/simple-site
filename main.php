@@ -13,7 +13,7 @@ echo "Password: ".$_POST["password"];?></td</tr></table>
 <tr><td colspan="4" align="center" valign="middle">
 <p><fieldset><legend>&nbsp;&nbsp;PAU purse&nbsp;</legend><table class="table2"><tr><td align="center">
 <a style="color:#0000CD;" href="http://www.pautinka.mobi/new.php">
-создать кошелёк</a></td></tr></table></fieldset></p>
+создать электронный кошелёк</a></td></tr></table></fieldset></p>
 <tr><td colspan="4" align="center" valign="middle"><i>Плети&nbsp;свою&nbsp;сеть&nbsp;!</i></td></tr>
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 <table border="1" width="100%" height="140" cellpadding="2" cellspacing="2">
