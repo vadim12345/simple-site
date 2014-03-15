@@ -6,7 +6,9 @@ echo "Password: ".$_POST["password"];?></td</tr></table>
 
 <table><tr><td colspan="4" align="center" valign="middle">&nbsp</td></tr></table>
 <table><tr><td colspan="4" align="center" valign="middle"><h4>ДОБРО&nbsp;ПОЖАЛОВАТЬ&nbsp;!</h4></td></tr>
-<tr><td><p align="center"><div>Используйте PAU для того, что бы расплачиваться и получать оплату просто и доступно.</div><p></td></tr>
+<tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
+<tr><td><p align="center"><div>Используйте&nbsp;PAU&nbsp;для&nbsp;того,&nbsp;чтобы&nbsp;расплачиваться&nbsp;и&nbsp;
+получать&nbsp;оплату&nbsp;просто&nbsp;и&nbsp;доступно.</div><p></td></tr>
 
 <tr><td colspan="4" align="center" valign="middle">
 <p><fieldset><legend>&nbsp;&nbsp;PAU purse&nbsp;</legend><table class="table2"><tr><td align="center">
