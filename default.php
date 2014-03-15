@@ -37,7 +37,7 @@ value="1" checked="checked"><label for="rem$PAGE_ID$"></label>&nbsp;Запомн
 <tr><td colspan="4" align="center" valign="middle">
 <a style="color:#4682B4;" href="http://pautinka.mobi/password.php">Забыли&nbsp;пароль&nbsp;?</a><br/>&nbsp;<br/>
 <a style="color:#4682B4;" href="http://pautinka.mobi/avtor.php">Служба&nbsp;поддержки&nbsp;!</a><br/>&nbsp;<br/>
-<a style="border:0;" href="images/bg.png"><img alt="pautinka"  src="images/bg.png"></a></td></tr>
+<a style="border:0;" href="images/bg.jpg"><img alt="pautinka"  src="images/bg.jpg"></a></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <?php require_once("footer.php");?>
