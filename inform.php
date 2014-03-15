@@ -4,7 +4,7 @@
 <tr><td colspan="4" align="center" valign="middle">
 <p><fieldset><legend>&nbsp;&nbsp;PAU purse&nbsp;</legend>
 <a style="color:#0000CD;" href="http://www.pautinka.mobi/new.php">
-создать&nbsp;бесплатный&nbsp;кошелёк</a></fieldset></a></p>
+<h3>создать&nbsp;бесплатный&nbsp;кошелёк</h3></a></fieldset></a></p>
 <p>pautinka символизирует порядок и равновесие сил, однако основное значение символа — связывать и удерживать.</p>
 <p>PAU можно заработать пригласив множество друзей ,а также можно купить на торговой площадке.</p> 
 <p>Существует 4 вида PAU:<br><ul><li>PAU tina - связывает и удерживает...</li>
