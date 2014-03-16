@@ -5,7 +5,7 @@
 </head>
 <body style="padding:0;	margin:0;">
 <table style="height:100%;" width="100%" border="0" cellpadding="0" cellspacing="0">
-
+<tr><td>
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle">
 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
 <tr><td align="center">
@@ -635,13 +635,13 @@ pautinka.mobi вправе в
 либо дополнительных
 уведомлений.<br/>
 <h5>6.  Подпись пользователя.</h5> 
-6.1. Регистрируясь на сайте pautinka.mobi пользователь автоматически подписывает пользовательское соглашение и принимает все его условия.   
+6.1. Регистрируясь на сайте pautinka.mobi пользователь автоматически подписывает пользовательское соглашение приняв все его условия.   
 <h5>Пользовательское соглашение.</h5>
 </td></tr>
 <tr><td align="center" valign="middle">&nbsp;</td></tr>
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"> 
 &copy; 2014 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
-</table>
+</td></tr></table>
 </body>
 </html>
 
