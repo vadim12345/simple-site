@@ -37,7 +37,8 @@ value="1" checked="checked"><label for="rem$PAGE_ID$"></label>&nbsp;Запомн
 <tr><td colspan="4" align="center" valign="middle">
 <a style="color:#4682B4;" href="http://pautinka.mobi/password.php">Забыли&nbsp;пароль&nbsp;?</a><br/>&nbsp;<br/>
 <a style="color:#4682B4;" href="http://pautinka.mobi/avtor.php">Служба&nbsp;поддержки&nbsp;!</a><td/><tr/>
-<tr><td colspan="4" align="center" valign="middle"><table width="200" border="1" cellpadding="0" cellspacing="0">
+<tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
+<tr><td colspan="4" align="center" valign="middle"><table width="175" border="0" cellpadding="0" cellspacing="0">
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle">
 <a style="color:#4682B4;" href="http://pautinka.mobi/dogovor.php">пользовательское&nbsp;соглашение
 </a></td></tr></table></td></tr>
