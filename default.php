@@ -9,28 +9,13 @@ rus</a> | <a style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a><
 <tr><td style="border:1;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp;</p></td>
 <td style="border:1;" width="28%" align="center" valign="middle"><p>&nbsp;</p></td>
 <td style="border:1;" width="6%" align="center" valign="middle"><p>&nbsp;</p></td>
-<td style="border:1;" width="60%" align="center" valign="middle"><p>&nbsp;</p></td></tr> 
-<tr><td style="border:1; bgcolor:#DC143C;" align="center" valign="middle"><p style="color:white">PAU tina</p></td>
-<td>&nbsp;</td><td style="border:1;" rowspan="4" width="60%" align="center" valign="middle"><img alt="pautinka" 
-width="100%" src="imeg/pauk.png"></td></tr>
-<tr><td style="border:1; bgcolor:#6A5ACD;" align="center" valign="middle"><p style="color:white">PAU chok</p></td>
-<td>&nbsp;</td></tr>
-<tr><td style="border:1; bgcolor:#9ACD32;" align="center" valign="middle"><p style="color:white">PAU coco</p></td>
-<td>&nbsp;</td></tr>
-<tr><td style="border:1; bgcolor:gold;" align="center" valign="middle"><p style="color:white">PAU gold</p></td>
-
-<?php $title=" МОБИЛЬНАЯ ПАУТИНКА ";require_once("header.php");?>
-<body style="padding:0;	margin:0;">
+<td style="border:1;" width="60%" align="center" valign="middle"><p>&nbsin:0;">
 <table style="height:100%;" width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
-<td style="background-color:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;" 
-href="http://pautinka.mobi">pautinka.mobi</a></td>
-<td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
-<td align="center" valign="middle"><a style="color:#DC143C;" href="http://pautinka.mobi/avtor.php">rus</a> | <a 
+<tr><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></tE6E6FA;" align="center" valign="middle"><p>&nbsp;</p></t:#DC143C;" href="http://pautinka.mobi/avtor.php">rus</a> | <a 
 style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 <table border="0" width="100%" cellpadding="3" cellspacing="2">
-<tr><td style="border:0;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp;</p></td>
+<tr><td style="border:0;" rowspan="6" width="7%" alilign="middle"><p>&nbsp;</p></td>
 <td style="border:0;" width="28%" align="center" valign="middle"><p>&nbsp;</p></td>
 <td style="border:0;" rowspan="6" width="5%" align="center" valign="middle"><p>&nbsp;</p></td>
 <td style="border:0;" rowspan="6" width="60%" align="center" valign="middle"><img alt="pautinka" width="100%"
