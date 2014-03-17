@@ -40,8 +40,7 @@ value="1" checked="checked"><label for="rem$PAGE_ID$"></label>&nbsp;Запомн
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle"><table width="175" border="0" cellpadding="0" cellspacing="0">
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle">
-<a style="color:#4682B4;" href="http://pautinka.mobi/dogovor.php">пользовательское&nbsp;соглашение
-</a></td></tr></table></td></tr>
+<a style="color:#FFFACD;" href="http://pautinka.mobi/dogovor.php">&nbsp;пользовательское&nbsp;соглашение</a></td></tr></table></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <?php require_once("footer.php");?>
