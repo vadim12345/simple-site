@@ -2,9 +2,11 @@
 <body style="padding:0;	margin:0;">
 <table style="height:100%;" width="100%" border="1" cellpadding="0" cellspacing="0">
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
-<td colspan="4" style="background-color:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;" href="http://pautinka.mobi">pautinka.mobi</a></td>
+<td colspan="4" style="background-color:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;"
+href="http://pautinka.mobi">pautinka.mobi</a></td>
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
-<td align="center" valign="middle"><a style="color:#DC143C;" href="http://pautinka.mobi/avtor.php">rus</a> | <a style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td></tr>
+<td align="center" valign="middle"><a style="color:#DC143C;" href="http://pautinka.mobi/avtor.php">rus</a> | <a
+style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td></tr>
 <tr><td align="center" valign="middle">
 <table border="1" width="100%" cellpadding="3" cellspacing="2">
 <tr><td style="border:1;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp;</p></td>
