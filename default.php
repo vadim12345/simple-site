@@ -1,6 +1,7 @@
 <?php $title=" МОБИЛЬНАЯ ПАУТИНКА ";require_once("header.php");?>
 <body style="padding:0;	margin:0;">
 <table style="height:100%;" width="100%" border="1" cellpadding="0" cellspacing="0">
+<tr><td colspan="4" align="center" valign="middle">
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
 <td style="background-color:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;" 
 href="http://pautinka.mobi">pautinka.mobi</a></td>
