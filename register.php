@@ -8,7 +8,8 @@
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle">
 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
 <tr><td  align="center" valign="middle">&nbsp;</td></tr>
-<table width="180" border="0" align="center"><td bgcolor="" align="center" valign="middle">
+<table width="180" border="0" align="center">
+<tr><td bgcolor="gray " align="center" valign="middle">
 <a style="color:#4682B4;" href="http://pautinka.mobi/dogovor.php">пользовательское&nbsp;соглашение</a></td></tr></table>
 <table>
 <tr><td align="center" valign="middle"><?php echo "E-mail:<strong>".$_POST["e-mail"]."</strong><br/>";
