@@ -11,7 +11,8 @@
 <table width="180" border="0" align="center"><td bgcolor="" align="center" valign="middle">
 <a style="color:#4682B4;" href="http://pautinka.mobi/dogovor.php">пользовательское&nbsp;соглашение</a></td></tr>
 
-
+<table><tr><td colspan="4" align="center" valign="middle"><?php echo "E-mail:<strong>".$_POST["e-mail"]."</strong><br/>";
+echo "Password: ".$_POST["password"];?></td</tr></table>
 
 <tr><td align="center" valign="middle">&nbsp;</td></tr>
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"> 
