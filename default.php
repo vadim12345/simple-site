@@ -1,29 +1,27 @@
 <?php $title=" МОБИЛЬНАЯ ПАУТИНКА ";require_once("header.php");?>
 <body style="padding:0;	margin:0;">
-<table style="height:100%;" width="100%" border="1" cellpadding="0" cellspacing="0">
-<tr><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
-<td colspan="4" style="background-color:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;"
-href="http://pautinka.mobi">pautinka.mobi</a></td>
-<tr><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
-<td align="center" valign="middle"><a style="color:#DC143C;" href="http://pautinka.mobi/avtor.php">rus</a> | <a
-style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td></tr>
-<tr><td align="center" valign="middle">
-<table border="1" width="100%" cellpadding="3" cellspacing="2">
+<table style="height:100%; width:100%;" border="1" cellpadding="0" cellspacing="0">
+<tr><td style="bgcolor:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;" href="http://pautinka.mobi">
+pautinka.mobi</a></td><td align="center" valign="middle"><a style="color:#DC143C;" href="http://pautinka.mobi/avtor.php"
+rus</a> | <a style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td></tr></table>
+<table style="height:100%; width:100%;" border="1" cellpadding="0" cellspacing="0">
+
 <tr><td style="border:1;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp;</p></td>
 <td style="border:1;" width="28%" align="center" valign="middle"><p>&nbsp;</p></td>
 <td style="border:1;" width="6%" align="center" valign="middle"><p>&nbsp;</p></td>
-<td style="border:1;" width="60%" align="center" valign="middle"><img alt="pautinka" width="100%"
-src="imeg/pauk.png"></td></tr> 
-<tr><td style="border:0; background-color:#DC143C;" align="center" valign="middle">
-<p style="color:white">PAU tina</p></td></tr>
-<tr><td style="border:0; background-color:#6A5ACD;" align="center" valign="middle">
-<p style="color:white">PAU chok</p></td></tr>
-<tr><td style="border:0; background-color:#9ACD32;" align="center" valign="middle">
-<p style="color:white">PAU coco</p></td></tr>
-<tr><td style="border:0; background-color:gold;" align="center" valign="middle">
-<p style="color:white">PAU gold</p></td></tr>
-<tr><td align="center" valign="middle"><p>&nbsp;</p></td></tr>
-</table></td></tr>
+<td style="border:1;" width="60%" align="center" valign="middle"><p>&nbsp;</p></td></tr> 
+<tr><td style="border:1; bgcolor:#DC143C;" align="center" valign="middle"><p style="color:white">PAU tina</p></td>
+<td>&nbsp;</td><td style="border:1;" rowspan="4" width="60%" align="center" valign="middle"><img alt="pautinka" 
+width="100%" src="imeg/pauk.png"></td></tr>
+<tr><td style="border:1; bgcolor:#6A5ACD;" align="center" valign="middle"><p style="color:white">PAU chok</p></td>
+<td>&nbsp;</td></tr>
+<tr><td style="border:1; bgcolor:#9ACD32;" align="center" valign="middle"><p style="color:white">PAU coco</p></td>
+<td>&nbsp;</td></tr>
+<tr><td style="border:1; bgcolor:gold;" align="center" valign="middle"><p style="color:white">PAU gold</p></td>
+<td>&nbso;</td></tr>
+<tr><td align="center" valign="middle"><p>&nbsp;</p></td><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table>
+<table>
 <tr><td colspan="4" style="border:0; background-color:#FFFACD;" width="100%" align="center" valign="middle">
 <form action="http://pautinka.mobi/main.php" method="post">&nbsp;
 <table border="0" cellpadding="0" cellspacing="7"><tr><td align="right" valign="middle">E-mail:</td>
@@ -32,7 +30,7 @@ src="imeg/pauk.png"></td></tr>
 <tr><td>&nbsp;</td><td><span class="right"><input class="south" title="Сохранить пароль при входе"id="rem$PAGE_ID$" type="checkbox" name="rem"
 value="1" checked="checked"><label for="rem$PAGE_ID$"></label>&nbsp;Запомнить</span></td></tr>
 <tr><td align="center" valign="middle">&nbsp;</td><td><input type="submit" name="submit" value="ВХОД">
-<br>&nbsp;</table></form></td></tr>
+<br>&nbsp;</table></form></td></tr></table>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle">
