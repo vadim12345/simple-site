@@ -12,6 +12,10 @@
 <tr><td align="center" valign="middle"><a style="color:#4682B4;"
 href="http://pautinka.mobi/dogovor.php">пользовательское&nbsp;соглашение</a></td></tr>
 
+<tr><td align="center" valign="middle" height="400">&nbsp;</td></tr>
+
+
+
 <tr><td align="center" valign="middle"><?php echo "E-mail:<strong>".$_POST["e-mail"]."</strong><br/>";
 echo "Password: ".$_POST["password"];?></td</tr>
 
