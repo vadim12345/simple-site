@@ -8,7 +8,7 @@ href="http://pautinka.mobi">pautinka.mobi</a></td>
 <td align="center" valign="middle"><a style="color:#DC143C;" href="http://pautinka.mobi/avtor.php">rus</a> | <a 
 style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
-<table border="0" width="100%" cellpadding="3" cellspacing="2">
+<table border="1" width="100%" cellpadding="3" cellspacing="2">
 <tr><td style="border:0;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp;</p></td>
 <td style="border:0;" width="28%" align="center" valign="middle"><p>&nbsp;</p></td>
 <td style="border:0;" rowspan="6" width="5%" align="center" valign="middle"><p>&nbsp;</p></td>
@@ -16,12 +16,13 @@ style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td></tr>
 src="imeg/pauk.png"></td></tr> 
 <tr><td style="border:0; background-color:#DC143C;" align="center" valign="middle">
 <p style="color:white">PAU tina</p></td></tr>
-<tr><td style="border:0; background-color:#6A5ACD;" align="center"
-valign="middle"><p style="color:white">PAU chok</p></td></tr>
-<tr><td style="border:0; background-color:#9ACD32;"
-align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
-<tr><td style="border:0; background-color:gold;" align="center" valign="middle"><p style="color:white">PAU gold</p>
-</td></tr><tr><td align="center" valign="middle"><p>&nbsp;</p></td></tr>
+<tr><td style="border:0; background-color:#6A5ACD;" align="center" valign="middle">
+<p style="color:white">PAU chok</p></td></tr>
+<tr><td style="border:0; background-color:#9ACD32;" align="center" valign="middle">
+<p style="color:white">PAU coco</p></td></tr>
+<tr><td style="border:0; background-color:gold;" align="center" valign="middle">
+<p style="color:white">PAU gold</p></td></tr>
+<tr><td align="center" valign="middle"><p>&nbsp;</p></td></tr>
 </table></td></tr>
 <tr><td colspan="4" style="border:0; background-color:#FFFACD;" width="100%" align="center" valign="middle">
 <form action="http://pautinka.mobi/main.php" method="post">&nbsp;
@@ -39,7 +40,7 @@ value="1" checked="checked"><label for="rem$PAGE_ID$"></label>&nbsp;Запомн
 <a style="color:#4682B4;" href="http://pautinka.mobi/avtor.php">Служба&nbsp;поддержки&nbsp;!</a><td/><tr/>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle"><table style="height:25;" width="180" border="0" cellpadding="0" cellspacing="0">
-<tr><td style="background-color:#B0C4DE;" align="center" valign="middle">
+<tr><td style="background-color:#FFFFE0;" align="center" valign="middle">
 <a style="color:#4682B4;" href="http://pautinka.mobi/dogovor.php">&nbsp;пользовательское&nbsp;соглашение</a></td></tr></table></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
