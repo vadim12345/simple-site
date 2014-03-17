@@ -1,21 +1,15 @@
 <?php $title=" МОБИЛЬНАЯ ПАУТИНКА ";require_once("header.php");?>
 <body style="padding:0;	margin:0;">
-<table style="height:100%; width:100%;" border="1" cellpadding="0" cellspacing="0">
-<tr><td style="bgcolor:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;" href="http://pautinka.mobi">
-pautinka.mobi</a></td><td align="center" valign="middle"><a style="color:#DC143C;" href="http://pautinka.mobi/avtor.php"
-rus</a> | <a style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td></tr></table>
-<table style="height:100%; width:100%;" border="1" cellpadding="0" cellspacing="0">
-
-<tr><td style="border:1;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp;</p></td>
-<td style="border:1;" width="28%" align="center" valign="middle"><p>&nbsp;</p></td>
-<td style="border:1;" width="6%" align="center" valign="middle"><p>&nbsp;</p></td>
-<td style="border:1;" width="60%" align="center" valign="middle"><p>&nbsin:0;">
 <table style="height:100%;" width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></tE6E6FA;" align="center" valign="middle"><p>&nbsp;</p></t:#DC143C;" href="http://pautinka.mobi/avtor.php">rus</a> | <a 
+<tr><td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
+<td style="background-color:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;" 
+href="http://pautinka.mobi">pautinka.mobi</a></td>
+<td style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
+<td align="center" valign="middle"><a style="color:#DC143C;" href="http://pautinka.mobi/avtor.php">rus</a> | <a 
 style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 <table border="0" width="100%" cellpadding="3" cellspacing="2">
-<tr><td style="border:0;" rowspan="6" width="7%" alilign="middle"><p>&nbsp;</p></td>
+<tr><td style="border:0;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp;</p></td>
 <td style="border:0;" width="28%" align="center" valign="middle"><p>&nbsp;</p></td>
 <td style="border:0;" rowspan="6" width="5%" align="center" valign="middle"><p>&nbsp;</p></td>
 <td style="border:0;" rowspan="6" width="60%" align="center" valign="middle"><img alt="pautinka" width="100%"
@@ -47,5 +41,7 @@ value="1" checked="checked"><label for="rem$PAGE_ID$"></label>&nbsp;Запомн
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <?php require_once("footer.php");?>
+
+
 
 
