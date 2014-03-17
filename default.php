@@ -38,9 +38,9 @@ value="1" checked="checked"><label for="rem$PAGE_ID$"></label>&nbsp;Запомн
 <a style="color:#4682B4;" href="http://pautinka.mobi/password.php">Забыли&nbsp;пароль&nbsp;?</a><br/>&nbsp;<br/>
 <a style="color:#4682B4;" href="http://pautinka.mobi/avtor.php">Служба&nbsp;поддержки&nbsp;!</a><td/><tr/>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
-<tr><td colspan="4" align="center" valign="middle"><table width="175" border="0" cellpadding="0" cellspacing="0">
-<tr><td style="background-color:#E6E6FA;" align="center" valign="middle">
-<a style="color:#FFFACD;" href="http://pautinka.mobi/dogovor.php">&nbsp;пользовательское&nbsp;соглашение</a></td></tr></table></td></tr>
+<tr><td colspan="4" align="center" valign="middle"><table style="height:30;" width="180" border="0" cellpadding="0" cellspacing="0">
+<tr><td style="background-color:#FFFACD;;" align="center" valign="middle">
+<a style="color:#4682B4;" href="http://pautinka.mobi/dogovor.php">&nbsp;пользовательское&nbsp;соглашение</a></td></tr></table></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <?php require_once("footer.php");?>
