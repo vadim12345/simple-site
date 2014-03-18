@@ -23,7 +23,7 @@ src="images/an.png"></a></th></tr><br>
  <tr><td align="center"  class="lable" valign="bootom">*Введите цифры: </td></tr>
  <tr><td align="center" valign="top">
 <?php $i=1; do {$num[$i] = mt_rand(0,9); echo "<img src='img/".$num[$i].".png' border='0' align='center' vspace='5px'>";
-++;} while ($i<5); $captcha = $num[1].$num[2].$num[3].$num[4];?>
+$i++;} while ($i<5); $captcha = $num[1].$num[2].$num[3].$num[4];?>
 <input name="captcha" type="hidden" value="<?php echo $captcha ;?>"><br/> 
 <input name="pr" style="margin-bottom:11px;" type="text" size="24" maxlength="4"></td></tr>
 <tr><th colspan="2"></th></tr>
