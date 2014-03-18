@@ -4,13 +4,13 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 <body style="height:100%; padding:0; margin:0;">
-<table height="100%" width="100%;" border="1" cellpadding="0" cellspacing="0">
+<table height="100%" width="100%;" border="0" cellpadding="0" cellspacing="0">
 
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle">
 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
 <tr><td  align="center" valign="middle" height="50">&nbsp;</td></tr>
 <tr><td align="center" valign="middle"><a style="color:#4682B4;"
-href="http://pautinka.mobi/dogovor.php">пользовательское&nbsp;соглашение</a></td></tr>
+href="http://pautinka.mobi/dogovor.php">пользовательское соглашение</a></td></tr>
 
 <tr><td align="center" valign="middle" height="50">&nbsp;</td></tr>
 
