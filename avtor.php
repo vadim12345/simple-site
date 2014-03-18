@@ -4,14 +4,14 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 <body style="padding:0;	margin:0;">
-<table style="height:100%;" width="100%" border="1" cellpadding="0" cellspacing="0">
+<table style="height:100%;" width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle">
 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
 <tr><td  align="center" valign="middle">&nbsp;</td></tr>
  <tr><td align="center" valign="middle"><center>
  <form action="send.php" method="post"><fieldset><legend>&nbsp;&nbsp;Служба&nbsp;поддержки&nbsp;!</legend> 
  <table class="table2">
- <tbody><tr><th colspan="2" class="zagalovok"><a style="border:1;" href="images/an.png"><img alt="pautinka"  
+ <tbody><tr><th colspan="2" class="zagalovok"><a style="border:0;" href="images/an.png"><img alt="pautinka"  
 src="images/an.png"></a></th></tr><br>
  <tr><th colspan="2"></th></tr>
  <tr><td colspan="2" class="lable">*Ваше имя:</td></tr>
