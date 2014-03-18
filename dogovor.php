@@ -8,8 +8,8 @@
 
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle">
 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
-<tr><td align="center">
-<h5>Пользовательское соглашение.</h5>
+<tr><td align="center" valign="middle">
+<h5> Пользовательское соглашение.</h5>
 Настоящее Соглашение (далее —
 Соглашение) регулирует отношения
 между pautinka.mobi -
