@@ -4,12 +4,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 <body style="padding:0;	margin:0;">
-<table style="height:100%;" width="100%" border="1" cellpadding="3" cellspacing="0">
+<table style="height:100%;" width="100%" border="1" cellpadding="0" cellspacing="3">
 
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle">
 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
 <tr><td align="center">
-<div width="150"><h5>Пользовательское соглашение.</h5>
+<h5>Пользовательское соглашение.</h5>
 Настоящее Соглашение (далее —
 Соглашение) регулирует отношения
 между pautinka.mobi -
@@ -636,7 +636,7 @@ pautinka.mobi вправе в
 уведомлений.<br/>
 <h5>6.  Подпись пользователя.</h5> 
 6.1. Регистрируясь на сайте pautinka.mobi пользователь автоматически подписывает пользовательское соглашение приняв все его условия.   
-<h5>Пользовательское соглашение.</h5></div>
+<h5>Пользовательское соглашение.</h5>
 </td></tr>
 <tr><td align="center" valign="middle">&nbsp;</td></tr>
 <tr><td style="background-color:#E6E6FA;" align="center" valign="middle"> 
