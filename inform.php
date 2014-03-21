@@ -9,8 +9,10 @@
 <li>PAU chok - отвечает за безопасность...</li><li>PAU coco - кокон производит PAU...</li>
 <li>PAU gold - подкрепленно золотом...</li></ul></td></tr>
 <tr><td colspan="4" valign="middle">
-<p>Стоимость:<br><ol><li>PAU tina - 3.3$</li><br><li>PAU chok - 33$</li><br><li>PAU coco - 330$</li><br>
-<li>PAU gold - 3.300$</li></ol></p>ИГРА где зарабатываются PAU, обыграв своих друзей</p><P>ДНЕВНИК для ведения ежедневных записей...</P>
+<p><h5>Стоимость:</h5><ol><li>PAU tina - 3.3 $</li><br><li>PAU chok - 33 $</li><br><li>PAU coco - 330 $</li><br>
+<li>PAU gold - 3.300 $</li></ol></td></tr>
+<tr><td colspan="4" align="center" valign="middle">
+</p>ИГРА где зарабатываются PAU, обыграв своих друзей</p><P>ДНЕВНИК для ведения ежедневных записей...</P>
 <p>Чем больше друзей приглосите в паутинку, тем
 больше голосов получаете и тем больше PAU у вас будет.</p></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
