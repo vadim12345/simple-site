@@ -7,14 +7,16 @@
 <tr><td colspan="4" valign="middle">
 <ul><li>PAU tina - связывает и удерживает...</li>
 <li>PAU chok - отвечает за безопасность...</li><li>PAU coco - кокон производит PAU...</li>
-<li>PAU gold - подкрепленно золотом...</li></ul></td></tr>
+<li>PAU gold - подкрепленно золотом...</li></ul></td></tr><be/>
+<tr><td colspan="4" align="center" valign="middle">
+<h5>Стоимость:</h5></td></tr>
 <tr><td colspan="4" valign="middle">
-<p><h5>Стоимость:</h5><ol><li>PAU tina - 3.3 $</li><br><li>PAU chok - 33 $</li><br><li>PAU coco - 330 $</li><br>
-<li>PAU gold - 3.300 $</li></ol></td></tr>
+<p><ol><li>PAU tina - 3.3 $</li><br><li>PAU chok - 33 $</li><br><li>PAU coco - 330 $</li><br>
+<li>PAU gold - 3.300 $</li></ol></td></tr><be/>
 <tr><td colspan="4" align="center" valign="middle">
 </p>ИГРА где зарабатываются PAU, обыграв своих друзей</p><P>ДНЕВНИК для ведения ежедневных записей...</P>
 <p>Чем больше друзей приглосите в паутинку, тем
-больше голосов получаете и тем больше PAU у вас будет.</p></td></tr>
+больше голосов получаете и тем больше PAU у вас будет.</p></td></tr><be/>
 <tr><td colspan="4" align="center" valign="middle">
 <h3>Как это работает?</h3>
 <p>После регистрации Вы получите
