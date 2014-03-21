@@ -11,7 +11,7 @@
 <tr><td colspan="4" align="center" valign="middle">
 <h5>Стоимость:</h5><br/>&nbsp;<br/></td></tr>
 <tr><td colspan="4" valign="middle">
-<ol><li>PAU tina - 3.5 $</li><li>PAU chok - 31.35 $</li><li>PAU coco - 306.9 $</li>
+<ol><li>PAU tina - 3.3 $</li><li>PAU chok - 31.35 $</li><li>PAU coco - 306.9 $</li>
 <li>PAU gold - 2.970 $</li></ol><br/>&nbsp;<br/></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 <p>ИГРА где зарабатываются PAU, обыграв своих друзей</p>
