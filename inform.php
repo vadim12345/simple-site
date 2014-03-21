@@ -3,7 +3,7 @@
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 <p>PAU можно заработать пригласив множество друзей, а также можно купить на торговой площадке.</p> 
-<p><h5>Существует 4 вида PAU:</h5></td></tr>
+<h5>Существует 4 вида PAU:</h5></td></tr>
 <tr><td colspan="4" valign="middle">
 <ul><li>PAU tina - связывает и удерживает...</li>
 <li>PAU chok - отвечает за безопасность...</li><li>PAU coco - кокон производит PAU...</li>
@@ -11,10 +11,11 @@
 <tr><td colspan="4" align="center" valign="middle">
 <h5>Стоимость:</h5></td></tr>
 <tr><td colspan="4" valign="middle">
-<p><ol><li>PAU tina - 3.3 $</li><li>PAU chok - 33 $</li><li>PAU coco - 330 $</li>
+<ol><li>PAU tina - 3.3 $</li><li>PAU chok - 33 $</li><li>PAU coco - 330 $</li>
 <li>PAU gold - 3.300 $</li></ol><br/>&nbsp;<br/></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
-</p>ИГРА где зарабатываются PAU, обыграв своих друзей</p><P>ДНЕВНИК для ведения ежедневных записей...</P>
+<p>ИГРА где зарабатываются PAU, обыграв своих друзей</p>
+<p>ДНЕВНИК для ведения ежедневных записей...</p>
 <p>Чем больше друзей приглосите в паутинку, тем
 больше голосов получаете и тем больше PAU у вас будет.</p><br/>&nbsp;<br/></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
