@@ -40,10 +40,16 @@ value="1" checked="checked"><label for="rem$PAGE_ID$"></label>&nbsp;Запомн
 <tr><td colspan="4" align="center" valign="middle">
 <a style="color:#4682B4;" href="http://pautinka.mobi/password.php">Забыли&nbsp;пароль&nbsp;?</a><br/>&nbsp;<br/>
 <a style="color:#4682B4;" href="http://pautinka.mobi/avtor.php">Служба&nbsp;поддержки&nbsp;!</a><br/>&nbsp;<br/>
-<a style="color:red;" href="http://pautinka.mobi/main.php">ПОСМОТРЕТЬ&nbsp;ИДЕЮ</a><br/>&nbsp;<br/>
+<a style="color:red;" href="http://pautinka.mobi/main.php">ВХОД</a><br/>&nbsp;<br/></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
+<tr><td colspan="4"" style="background-color:#E6E6FA;" align="center" valign="middle"> 
+&copy; 2014 <a style="color:#0000CD;" href="http://www.pautinka.mobi">pautinka.mobi</a></td></tr>
+</table>
+</body>
+</html>
 
-<?php require_once("footer.php");?>
+
+
 
 
 
