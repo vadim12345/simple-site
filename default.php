@@ -3,10 +3,9 @@
 <table style="height:100%;" width="100%" border="1" cellpadding="0" cellspacing="0">
 <tr><td rowspan="8" width="10%" style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
 <td width="30%" style="background-color:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;" 
-href="http://pautinka.mobi">pautinka.mobi</a></td>
-<td width="10%" align="center" valign="middle"><a style="color:#DC143C;" href="http://pautinka.mobi/avtor.php">rus</a> | <a 
-style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td>
-<td rowspan="8" width="50%" style="bgcolor:#E6E6FA;"><p>&nbsp;</p></td></tr>
+href="http://pautinka.mobi">pautinka.mobi</a>&nbsp;<a style="color:#DC143C;" href="http://pautinka.mobi/avtor.php">
+rus</a> | <a style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td><td><p>&nbsp;</p></td>
+<td rowspan="8" width="60%" style="bgcolor:#E6E6FA;"><p>&nbsp;</p></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 <table border="0" width="100%" cellpadding="3" cellspacing="2">
 <tr><td style="border:0;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp;</p></td>
