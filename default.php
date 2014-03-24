@@ -3,22 +3,24 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head>
 <body style="padding:0;	margin:0;">
 <table border="1" cellpadding="0" cellspacing="0">
-<tr><td rowspan="8" width="10%" style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
-<td style="background-color:#E6E6FA;" width="7%" align="center" valign="middle"><p>&nbsp;</p></td>
+<tr><td rowspan="8" width="5%" style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
+<td style="background-color:#E6E6FA;" width="5%" align="center" valign="middle"><p>&nbsp;</p></td>
 
-<td width="28%" style="background-color:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;" 
+<td width="20%" style="background-color:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;" 
 href="http://pautinka.mobi">pautinka.mobi</a>&nbsp;<a style="color:#DC143C;" href="http://pautinka.mobi/avtor.php">
 rus</a> | <a style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td>
 
 <td width="5%"><p>&nbsp;</p></td>
 
-<td width="60%><p>&nbsp;</p></td><td rowspan="8" width="5%"><p>&nbsp;</p></td></tr>
+<td width="15%><p>&nbsp;</p></td>
+<td rowspan="8" width="50%"><p>&nbsp;</p></td></tr>
+
 <tr><td colspan="4" align="center" valign="middle">
 <table border="0" width="100%" cellpadding="3" cellspacing="2">
-<tr><td style="border:0;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp;</p></td>
-<td style="border:0;" width="28%" align="center" valign="middle"><p>&nbsp;</p></td>
-<td style="border:0;" rowspan="6" width="5%" align="center" valign="middle"><p>&nbsp;</p></td>
-<td style="border:0;" rowspan="6" width="60%" align="center" valign="middle"><img alt="pautinka" width="100%"
+<tr><td style="border:0;" rowspan="6" width="  " align="center" valign="middle"><p>&nbsp;</p></td>
+<td style="border:0;" width="  " align="center" valign="middle"><p>&nbsp;</p></td>
+<td style="border:0;" rowspan="6" width="  " align="center" valign="middle"><p>&nbsp;</p></td>
+<td style="border:0;" rowspan="6" width="  " align="center" valign="middle"><img alt="pautinka" width="100%"
 src="imeg/pauk.png"></td></tr> 
 <tr><td style="border:0; background-color:#DC143C;" align="center" valign="middle">
 <p style="color:white">PAU tina</p></td></tr>
