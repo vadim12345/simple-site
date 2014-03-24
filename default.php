@@ -1,6 +1,7 @@
-<?php $title=" МОБИЛЬНАЯ ПАУТИНКА ";require_once("header.php");?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01Transitional//EN"  "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>МОБИЛЬНАЯ ПАУТИНКА</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head>
 <body style="padding:0;	margin:0;">
-
 <table border="1" cellpadding="0" cellspacing="0">
 <tr><td rowspan="8" width="10%" style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
 <td width="30%" style="background-color:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;" 
@@ -8,8 +9,7 @@ href="http://pautinka.mobi">pautinka.mobi</a>&nbsp;<a style="color:#DC143C;" hre
 rus</a> | <a style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td>
 <td width="5%"><p>&nbsp;</p></td>
 <td width="10%" style="bgcolor:#E6E6FA;"><p>&nbsp;</p></td>
-<td width="40%><p>&nbsp;</p></td>
-<td rowspan="8" width="5%"><p>&nbsp;</p></td></tr>
+<td width="40%><p>&nbsp;</p></td><td rowspan="8" width="5%"><p>&nbsp;</p></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 <table border="0" width="100%" cellpadding="3" cellspacing="2">
 <tr><td style="border:0;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp;</p></td>
