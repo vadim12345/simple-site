@@ -9,7 +9,8 @@ rus</a> | <a style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a><
 <td width="100"><p>&nbsp;</p></td>
 <td width="400" style="bgcolor:#E6E6FA;"><p>&nbsp;</p></td>
 <td width="100><p>&nbsp;</p></td>
-<td rowspan="8" width="600"><p>&nhsp;</p></td></tr>
+<td rowspan="8" width="600"><p>&nbsp;</p></td></tr>
+
 <tr><td colspan="4" align="center" valign="middle">
 <table border="0" width="100%" cellpadding="3" cellspacing="2">
 <tr><td style="border:0;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp;</p></td>
