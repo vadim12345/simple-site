@@ -1,11 +1,11 @@
 <?php $title=" МОБИЛЬНАЯ ПАУТИНКА ";require_once("header.php");?>
 <body style="padding:0;	margin:0;">
 <table style="height:100%;" width="100%" border="1" cellpadding="0" cellspacing="0">
-<tr><td rowspan="8" width="10%" style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
-<td width="30%" style="background-color:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;" 
+<tr><td rowspan="8" width="100" style="background-color:#E6E6FA;" align="center" valign="middle"><p>&nbsp;</p></td>
+<td width="300" style="background-color:#E6E6FA;" align="center" valign="middle"><a style="color:#0000CD;" 
 href="http://pautinka.mobi">pautinka.mobi</a>&nbsp;<a style="color:#DC143C;" href="http://pautinka.mobi/avtor.php">
-rus</a> | <a style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td><td><p>&nbsp;</p></td>
-<td rowspan="8" width="60%" style="bgcolor:#E6E6FA;"><p>&nbsp;</p></td></tr>
+rus</a> | <a style="color:#0000CD;" href="http://pautinka.mobi/new.php">eng</a></td><td rowspan="8" width="100"><p>&nbsp;</p></td>
+<td width="400" style="bgcolor:#E6E6FA;"><p>&nbsp;</p></td></tr>
 <tr><td colspan="4" align="center" valign="middle">
 <table border="0" width="100%" cellpadding="3" cellspacing="2">
 <tr><td style="border:0;" rowspan="6" width="7%" align="center" valign="middle"><p>&nbsp;</p></td>
