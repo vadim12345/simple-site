@@ -30,7 +30,7 @@ align="center" valign="middle"><p style="color:white">PAU coco</p></td></tr>
 <td><input type="password" size=16 name="password"></td></tr>
 <tr><td>&nbsp;</td><td><span class="right"><input class="south" title="Сохранить пароль при входе"id="rem$PAGE_ID$" type="checkbox" name="rem"
 value="1" checked="checked"><label for="rem$PAGE_ID$"></label>&nbsp;Запомнить</span></td></tr>
-<tr><td align="center" valign="middle">&nbsp;</td><td><input type="submit" name="submit" value="ВХОД">
+<tr><td align="center" valign="middle">&nbsp;</td><td><input type="submit" name="submit" value="&nbsp;">
 <br>&nbsp;</table></form></td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
 <tr><td colspan="4" align="center" valign="middle">&nbsp;</td></tr>
